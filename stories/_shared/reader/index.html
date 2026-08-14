@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>Đọc truyện</title>
+<style>
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: #f7f3ea;
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px 12px;
+    padding-top: calc(10px + env(safe-area-inset-top));
+    padding-left: calc(12px + env(safe-area-inset-left));
+    padding-right: calc(12px + env(safe-area-inset-right));
+    background: #efe7d7;
+    border-bottom: 1px solid #ddd0b5;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .toolbar button, .toolbar input {
+    font-family: inherit;
+    font-size: 16px;
+    padding: 8px 14px;
+    min-height: 40px;
+    border-radius: 8px;
+    border: 1px solid #c9b98f;
+    background: #fff;
+    color: #4a3b26;
+    cursor: pointer;
+  }
+  .toolbar button:active { background: #f0e6cf; }
+  .toolbar input {
+    width: 64px;
+    text-align: center;
+    cursor: text;
+    -webkit-appearance: none;
+  }
+  .btn-label-full { display: inline; }
+  .btn-label-short { display: none; }
+  .frame-wrap {
+    height: calc(100% - 61px);
+  }
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+    background: #f7f3ea;
+  }
+
+  /* Điện thoại: thu gọn nút, chữ to hơn để bấm dễ, chừa khoảng safe-area đáy */
+  @media (max-width: 480px) {
+    .toolbar {
+      gap: 6px;
+      padding: 8px;
+      padding-top: calc(8px + env(safe-area-inset-top));
+    }
+    .toolbar button, .toolbar input {
+      font-size: 15px;
+      padding: 8px 10px;
+      min-height: 42px;
+    }
+    .btn-label-full { display: none; }
+    .btn-label-short { display: inline; }
+    .toolbar input {
+      width: 52px;
+    }
+    .frame-wrap {
+      height: calc(100% - 58px);
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html, body { background: #1c1a16; }
+    .toolbar { background: #262219; border-bottom-color: #3a331f; }
+    .toolbar button, .toolbar input {
+      background: #1c1a16;
+      color: #e8e1d3;
+      border-color: #4a3f2a;
+    }
+    iframe { background: #1c1a16; }
+  }
+</style>
+</head>
+<body>
+  <div class="toolbar">
+    <button id="prevBtn">
+      <span class="btn-label-full">‹ Chương trước</span>
+      <span class="btn-label-short">‹ Trước</span>
+    </button>
+    <input id="chapterInput" type="text" inputmode="numeric">
+    <button id="goBtn">Đến</button>
+    <button id="nextBtn">
+      <span class="btn-label-full">Chương sau ›</span>
+      <span class="btn-label-short">Sau ›</span>
+    </button>
+    <button id="audioBtn" title="Nghe audio">🔊</button>
+  </div>
+  <div class="frame-wrap">
+    <iframe id="content"></iframe>
+  </div>
+
+<script>
+function getStorySlug() {
+  const params = new URLSearchParams(window.location.search);
+  const story = params.get('story');
+  if (!story) {
+    document.body.innerHTML = '<p style="padding:20px">Thiếu tham số "story" trong URL.</p>';
+    throw new Error('missing story param');
+  }
+  return story;
+}
+
+const STORY = getStorySlug();
+const STORAGE_KEY = 'currentChapter:' + STORY;
+let CHAPTER_DIGITS = 3;
+
+function getChapterFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const ch = params.get('ch');
+  if (ch) return ch.padStart(CHAPTER_DIGITS, '0');
+  const saved = localStorage.getItem(STORAGE_KEY);
+  return saved || '1'.padStart(CHAPTER_DIGITS, '0');
+}
+
+function loadChapter(num) {
+  const padded = String(num).padStart(CHAPTER_DIGITS, '0');
+  document.getElementById('content').src = '../../' + STORY + '/vi/' + padded + '.html';
+  document.getElementById('chapterInput').value = padded;
+  localStorage.setItem(STORAGE_KEY, padded);
+  const url = new URL(window.location);
+  url.searchParams.set('ch', padded);
+  window.history.replaceState({}, '', url);
+}
+
+document.getElementById('prevBtn').addEventListener('click', () => {
+  const cur = parseInt(document.getElementById('chapterInput').value, 10) || 1;
+  if (cur > 1) loadChapter(cur - 1);
+});
+
+document.getElementById('nextBtn').addEventListener('click', () => {
+  const cur = parseInt(document.getElementById('chapterInput').value, 10) || 1;
+  loadChapter(cur + 1);
+});
+
+document.getElementById('goBtn').addEventListener('click', () => {
+  const cur = parseInt(document.getElementById('chapterInput').value, 10) || 1;
+  loadChapter(cur);
+});
+
+document.getElementById('chapterInput').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') document.getElementById('goBtn').click();
+});
+
+document.getElementById('audioBtn').addEventListener('click', () => {
+  const cur = document.getElementById('chapterInput').value;
+  window.location.href = 'audio.html?story=' + STORY + '&ch=' + cur;
+});
+
+async function init() {
+  try {
+    const res = await fetch('../../' + STORY + '/meta.json');
+    const meta = res.ok ? await res.json() : {};
+    CHAPTER_DIGITS = meta.chapterDigits || 3;
+  } catch (e) {
+    CHAPTER_DIGITS = 3;
+  }
+  loadChapter(getChapterFromUrl());
+}
+
+init();
+</script>
+</body>
+</html>

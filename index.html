@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>Danh sách truyện</title>
+<style>
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body {
+    margin: 0;
+    min-height: 100%;
+    background: #f7f3ea;
+    color: #2b2620;
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  header {
+    padding: 20px 16px;
+    padding-top: calc(20px + env(safe-area-inset-top));
+    text-align: center;
+    background: #efe7d7;
+    border-bottom: 1px solid #ddd0b5;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 1.4em;
+    color: #8a5a3b;
+  }
+  .list {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .story-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 14px;
+    background: #fff;
+    border: 1px solid #ddd0b5;
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .story-card:active { background: #f0e6cf; }
+  .avatar {
+    width: 80px;
+    height: 100px;
+    border-radius: 0;
+    flex: none;
+    object-fit: cover;
+    background: #8a5a3b;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4em;
+  }
+  .story-info {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .story-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+  .story-chapters {
+    font-size: 0.9em;
+    line-height: 1.3;
+    color: #6b5a42;
+  }
+  .story-status {
+    font-size: 0.9em;
+    line-height: 1.3;
+    color: #8a5a3b;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html, body { background: #1c1a16; color: #e8e1d3; }
+    header { background: #262219; border-bottom-color: #3a331f; }
+    header h1 { color: #d8a674; }
+    .story-card { background: #23201a; border-color: #3a331f; }
+    .story-card:active { background: #2c2820; }
+    .avatar { background: #d8a674; color: #2b2620; }
+    .story-chapters { color: #b3a688; }
+    .story-status { color: #d8a674; }
+  }
+</style>
+</head>
+<body>
+  <header><h1>Danh sách truyện</h1></header>
+  <div class="list" id="storyList"></div>
+
+<script>
+const stories = [
+  {
+    title: 'Đại Minh Quan Trường',
+    path: 'stories/dai-minh-quan-quan-truong/',
+    avatar: 'stories/dai-minh-quan-quan-truong/avatar.jpg',
+    totalChapters: 30,
+    translatedChapters: 25,
+    status: 'Đang tiến hành'
+  },
+  {
+    title: 'Huyền Giám Tiên Tộc',
+    path: 'stories/huyen-giam-tien-toc/',
+    avatar: 'stories/huyen-giam-tien-toc/avatar.jpg',
+    totalChapters: 2,
+    translatedChapters: 2,
+    status: 'Đang tiến hành'
+  }
+];
+
+const list = document.getElementById('storyList');
+for (const s of stories) {
+  const a = document.createElement('a');
+  a.className = 'story-card';
+  a.href = s.path;
+
+  const avatar = document.createElement('div');
+  avatar.className = 'avatar';
+  avatar.textContent = s.title.charAt(0);
+  if (s.avatar) {
+    const img = new Image();
+    img.onload = () => {
+      avatar.textContent = '';
+      avatar.style.background = 'transparent';
+      avatar.appendChild(img);
+    };
+    img.src = s.avatar;
+    img.alt = s.title;
+    img.style.width = '100%';
+    img.style.height = '100%';
+    img.style.borderRadius = '0';
+    img.style.objectFit = 'cover';
+  }
+
+  const info = document.createElement('div');
+  info.className = 'story-info';
+
+  const title = document.createElement('span');
+  title.className = 'story-title';
+  title.textContent = s.title;
+
+  const chapters = document.createElement('span');
+  chapters.className = 'story-chapters';
+  chapters.textContent = `${s.translatedChapters}/${s.totalChapters} chương`;
+
+  const status = document.createElement('span');
+  status.className = 'story-status';
+  status.textContent = s.status;
+
+  info.appendChild(title);
+  info.appendChild(chapters);
+  info.appendChild(status);
+
+  a.appendChild(avatar);
+  a.appendChild(info);
+  list.appendChild(a);
+}
+</script>
+</body>
+</html>

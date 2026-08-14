@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Đọc truyện</title>
+<script>
+  const url = new URL('../_shared/reader/index.html', window.location);
+  url.search = window.location.search;
+  url.searchParams.set('story', 'huyen-giam-tien-toc');
+  window.location.replace(url);
+</script>
+</head>
+<body></body>
+</html>
