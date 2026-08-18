@@ -54,7 +54,8 @@ Huyền Giám Tiên Tộc có trật tự tôn ti rất nghiêm ngặt. Hệ th�
     - "em trai" (danh từ) → "đệ đệ" (ví dụ: "em trai Lý Diệp Sinh" → "đệ đệ Lý Diệp Sinh").
     - "anh em" (danh từ số nhiều, không phân biệt trai gái hoặc chỉ tập thể anh em) → "huynh đệ" (ví dụ: "bốn anh em" → "bốn huynh đệ"; "mấy anh em" → "mấy huynh đệ").
     - Khi có thứ bậc cụ thể và đang gọi trực tiếp: vẫn dùng "đại ca/nhị ca/tam đệ/tứ đệ..." như mục xưng hô trong tông môn/gia tộc đã quy định, không đổi.
-    - Lời thoại xưng hô kiểu "anh/em" (ví dụ Điền Vân gọi Lý Hạng Bình là "anh") chỉ áp dụng cho quan hệ TÌNH CẢM/NGOÀI GIA TỘC (trai gái yêu đương, bạn bè thân thiết), KHÔNG áp dụng cho quan hệ anh em ruột thịt trong nhà họ Lý.
+    - **Đã bỏ ngoại lệ trước đây cho phép dùng "anh/em" thuần Việt trong quan hệ tình cảm/ngoài gia tộc (trai gái yêu đương, bạn bè thân thiết, họ hàng xa).** Từ nay dùng "huynh/muội" (Hán Việt) NHẤT QUÁN cho MỌI trường hợp xưng hô kiểu "anh/em", không phân biệt là anh em ruột thịt hay quan hệ tình cảm/ngoài gia tộc. Ví dụ: Điền Vân gọi Lý Hạng Bình là "huynh" (không phải "anh"), tự xưng "muội" (không phải "em"); Lý Hạng Bình gọi lại là "muội" và tự xưng "huynh".
+    - **Quy tắc chung, áp dụng cho toàn bộ xưng hô nhân xưng trong truyện: KHÔNG dùng từ thuần Việt** ("anh", "em", "chú", "cô", "cha", "mẹ"...) khi đó là lời xưng hô/gọi nhau giữa các nhân vật hay danh từ chỉ quan hệ giữa họ, dù là quan hệ ruột thịt, họ hàng, tình cảm hay xã giao ngoài xã hội. Luôn thay bằng từ Hán Việt tương ứng (huynh/muội, ca ca/đệ đệ, huynh đệ, thúc/thúc phụ, phụ thân/mẫu thân...) theo các bảng từ đã quy định trong mục 2, 3, 6.
 - Xưng hô giữa các tu sĩ ngoài gia tộc:
   - Ngang hàng/tôn trọng nhau: đạo hữu, tự xưng "tại hạ / mỗ / ta".
   - Bậc trên với bậc dưới: tiền bối - vãn bối / tiểu hữu.
@@ -81,8 +82,14 @@ Văn phong của truyện mang sắc thái u tối, thực tế, khắc họa s�
 - **Dịch sát nghĩa đen cụm miêu tả ngoại hình/thần sắc Hán ngữ** (ví dụ 五官很是平凡 → không dịch máy móc thành "năm nét bình thường"; 阴晴不定 → không dịch thành "lúc âm lúc dương"). Phải thoát ý sang cách diễn đạt tiếng Việt tự nhiên: "gương mặt chẳng có gì nổi bật", "vẻ mặt khó đoán".
 - **Dùng từ hiện đại/kỹ thuật sai bối cảnh cổ trang** (ví dụ 篇幅 dịch máy móc thành "dung lượng" nghe như thuật ngữ công nghệ). Phải thoát ý sang từ phù hợp văn phong cổ: "dài hơn hẳn", "pháp văn khá dài", "lời văn dài dòng"...
 - **Diễn giải trùng lặp ý giữa hai mệnh đề/câu liền nhau** (một câu nêu cảm xúc/suy nghĩ, câu ngay sau lặp lại đúng ý đó bằng từ khác, kiểu "...trong lòng chợt nảy ra một ý... / ...hắn thầm tính toán"). Phải gộp lại hoặc đổi biến tấu để tránh nói hai lần cùng một việc.
+- **Ghép từ lạ, gây khó hiểu dù đúng nghĩa gốc** (ví dụ 双手抱起 dịch máy móc ghép thành "ôm bổng" nghe lạ tai, tối nghĩa). Chỉ dùng từ/cụm từ tiếng Việt thông dụng, quen thuộc, người đọc hiểu ngay không cần suy đoán; không tự chế/ghép từ mới lạ để bám sát câu chữ gốc. Ví dụ trên nên dùng "nhấc bổng" hoặc "bế lên" thay vì "ôm bổng".
+- **Danh từ vật thể thường (không phải danh xưng/pháp bảo/thuật ngữ tu tiên) không cần giữ Hán Việt cổ**: 青石 (đá tảng màu xanh dùng để tập luyện, không phải pháp bảo hay địa danh) → dùng "đá xanh"/"tảng đá xanh", KHÔNG dùng "thanh thạch" ("thạch" là Hán Việt cổ ít dùng trong văn nói hiện đại so với "đá"). Nguyên tắc áp dụng chung: chỉ giữ Hán Việt cho tên riêng, địa danh, pháp bảo, công pháp, cảnh giới (theo mục 1, 2); còn danh từ chỉ vật thể/sự vật thông thường trong câu miêu tả thì ưu tiên từ thuần Việt phổ biến, dễ hiểu, không dùng Hán Việt cổ cho oai.
 
 Cách rà: đọc liền một lượt cả đoạn (không dừng lại từng câu), nếu thấy nhịp câu đều tăm tắp, lặp cấu trúc, hoặc nghe "trơn tuột" như văn dịch tự động, phải viết lại đoạn đó theo lối văn kể chuyện tiếng Việt tự nhiên hơn.
+
+- **Câu quá dài do nối liền nhiều mệnh đề bằng dấu phẩy theo đúng thứ tự câu Hán gốc** (lỗi thực tế ở chương 19: một câu tiếng Trung gộp 4-5 hành động/ý liên tiếp bằng dấu phẩy, bản dịch giữ nguyên số mệnh đề và thứ tự, thành một câu tiếng Việt dài lê thê, đọc đuối hơi, mất tự nhiên). Câu Hán dài không có nghĩa là câu Việt cũng phải dài: PHẢI chủ động tách thành 2-3 câu ngắn hơn theo nhịp kể chuyện tiếng Việt, dùng dấu chấm hoặc dấu hai chấm để ngắt ý, không cố giữ nguyên một câu dài chỉ vì bản gốc là một câu.
+- **Lặp động từ/cụm từ trong cùng một câu do dịch bám sát cả hai vế Hán dùng chung một gốc nghĩa** (ví dụ 感受着...流转不息的感觉 dịch máy móc thành "cảm nhận cảm giác... chảy không ngừng" nghe lặp và ngượng). Phải bỏ bớt một lớp diễn đạt thừa, chỉ giữ một động từ hợp lý.
+- **Thành ngữ/quán ngữ Hán hiếm gặp dịch thẳng ra Hán Việt tối nghĩa** (ví dụ 福至心灵 dịch máy móc thành "phúc chí tâm linh" nghe lạ tai, người đọc không hiểu ngay). Phải thoát ý sang cách diễn đạt tiếng Việt tự nhiên, dễ hiểu (ví dụ: "ngộ tính bỗng dưng thông suốt hẳn ra").
 
 ## 5. Tự kiểm tra: Bắt lỗi bối phận và từ vựng
 
@@ -99,15 +106,20 @@ Sau khi dịch xong mỗi chương, PHẢI tự rà lại toàn bộ:
 
 - Cha → phụ thân
 - Mẹ → mẫu thân
-- **Quy tắc bắt buộc cho "cha/mẹ" (lỗi từng lặp lại rải rác ở rất nhiều chương 2-10, không chỉ 1-2 chỗ): tra đúng chữ Hán gốc trước khi chọn từ, KHÔNG mặc định dùng "cha/mẹ" thuần Việt.**
-  - Nguyên tác dùng HAI chữ khác nhau cho cha: **父亲** (trang trọng) và **爹/阿爹/爹爹** (khẩu ngữ, thường là tiếng gọi thảng thốt/thân mật). Bản dịch phải phản ánh đúng sự phân biệt này:
-    - 父亲 (dù là lời thoại xưng hô trực tiếp, lời thoại tường thuật gián tiếp, hay câu văn tường thuật của người kể chuyện) → LUÔN dịch "phụ thân", không được rút gọn thành "cha".
-    - 爹 / 阿爹 / 爹爹 (tiếng gọi trực tiếp, thường ngắn, cảm thán) → dịch "cha" (khẩu ngữ, phù hợp không khí thôn quê).
-    - Tương tự: 母亲 → LUÔN "mẫu thân"; 娘 (khẩu ngữ) → "mẹ".
-  - Ngoại lệ được phép giữ "cha/mẹ" thuần Việt:
-    - Thành ngữ dân dã cố định đã quen thuộc, ví dụ "mẹ già cha yếu" (dịch từ 娘挪不得爹动不得, giữ nguyên khí thành ngữ thay vì dịch máy móc).
-    - Khi nhân vật (thường là Lý Mộc Điền) đang independently kể chuyện/dặn dò con cái và tự xưng thay cho "tôi/ta" bằng "cha" (một cách nói tự nhiên của phụ huynh khi nói với con, dù câu gốc chỉ dùng "我"/"tôi" không có chữ 父亲/爹 nào) - đây là lối xưng hô tự nhiên trong tiếng Việt, không phải lỗi.
-  - Trước khi chốt bản dịch, PHẢI đối chiếu ngược lại đúng chữ Hán gốc (父亲 hay 爹) cho từng chỗ nói tới cha/mẹ, không suy đoán theo cảm tính hoặc theo thói quen dịch trước đó trong cùng đoạn.
+- **TUYỆT ĐỐI KHÔNG dùng "cha/mẹ" thuần Việt trong bất kỳ trường hợp nào**, kể cả khi chữ Hán gốc là 爹/阿爹/爹爹/娘 (khẩu ngữ thân mật) hay khi nhân vật tự xưng thay "ta". LUÔN dùng "phụ thân"/"mẫu thân", kể cả trong lời gọi thảng thốt, thân mật, hay tự xưng (ví dụ "父亲/爹！" → "Phụ thân!"; nhân vật tự xưng thay "ta" bằng "cha" → đổi thành "phụ thân" tự xưng, ví dụ "phụ thân đây cũng chưa từng thấy...").
+  - Không còn ngoại lệ khẩu ngữ 爹/娘 → "cha/mẹ" như trước đây; rule này đã bị bỏ.
+  - Thành ngữ dân dã cố định (ví dụ dịch ý 娘挪不得爹动不得) không dùng "mẹ già cha yếu" thuần Việt nữa, thay bằng "phụ mẫu già yếu" hoặc diễn đạt Hán Việt tương đương.
+  - Khi cần nói tới cụm "mẹ và con" như một cặp (ví dụ gọi chung vợ và con), dùng "mẫu tử" thay vì "mẹ con" thuần Việt.
+- **"Con"/"cháu" xưng hô: chỉ đổi sang Hán Việt ở CHIỀU TỰ XƯNG (người dưới nói về bản thân mình với người nghe cụ thể), giữ nguyên "con"/"cháu" ở CHIỀU ĐƯỢC GỌI TỚI/sở hữu cách và ở độc thoại nội tâm.**
+  - Lý do: tiếng Hán chỉ có từ tự nhiên cho chiều tự xưng (孩儿, 侄儿, 孙儿...); chiều ngược lại (cha mẹ/trưởng bối gọi người dưới là "con/cháu", hoặc sở hữu cách "của con/của cháu") trong Hán ngữ chỉ dùng "你" (ngươi) trơ trụi, không có từ họ hàng nào để thay — nên "con"/"cháu" ở chiều này vốn đã là lựa chọn tự nhiên nhất, KHÔNG được đổi (đã thử đổi và đọc rất gượng, xem lịch sử sửa chương 2-11 rồi hoàn tác).
+  - Bảng từ tự xưng theo đúng quan hệ với người NGHE (không phải quan hệ với người được nhắc tới trong câu):
+    - Con ruột tự xưng với cha/mẹ ruột → **hài nhi**.
+    - Cháu (gọi theo chú/bác/cô/cậu, có huyết thống gần) tự xưng → **điệt nhi**.
+    - Cháu nội tự xưng với ông/bà → **tôn nhi**.
+    - Cháu họ xa, hậu bối ngoài chi trực hệ tự xưng với tộc trưởng/trưởng bối xa (ví dụ Lý Diệp Thịnh với bá phụ Lý Mộc Điền, Lý Trường Hồ với cô trượng Trần Nhị Ngưu, Lý Thu Dương với tộc trưởng Lý Mộc Điền) → **tiểu điệt**.
+  - Độc thoại nội tâm (nhân vật tự lẩm bẩm một mình, không thực sự hướng lời tới ai) KHÔNG tính là tự xưng thật sự, giữ nguyên "con"/"cháu".
+  - Câu vừa có tự xưng vừa có phần khác trong cùng lời thoại: chỉ đổi đúng phần tự xưng, các phần "con của X"/"cháu của X" (sở hữu cách, người nói đang nhắc tới người khác) vẫn giữ nguyên.
+  - Ví dụ đã áp dụng: chương 20 "Con bất hiếu" → "Hài nhi bất hiếu" (con nói với phụ mẫu); chương 4 "bá phụ tha mạng con mà" → "...tha mạng tiểu điệt mà" (Lý Diệp Thịnh với bá phụ); chương 25 "Cuối cùng chỉ có mình cháu lên núi" → "...mình điệt nhi lên núi" (Lý Thu Dương với Lý Hạng Bình, quan hệ cháu-chú theo mục 8.6a).
 - Chú → thúc phụ
 - Bác → bá phụ
 - Thím → thẩm / thẩm thẩm
@@ -121,6 +133,13 @@ Sau khi dịch xong mỗi chương, PHẢI tự rà lại toàn bộ:
 - Anh em họ ngoại tộc → biểu huynh / biểu đệ / biểu tỷ / biểu muội
 - Nhà mẹ đẻ → nhà ngoại
 - Nhà chồng → nhà chồng
+- Vợ (danh từ, chỉ người vợ nói chung) → thê tử
+- Chồng (danh từ) → phu quân
+- Cưới vợ / lấy vợ (động từ, đàn ông kết hôn) → chọn theo ngữ cảnh, không cố định một từ:
+  - "thành thân": phát biểu chung chung về việc đã/chưa kết hôn (ví dụ "vẫn chưa thành thân").
+  - "nạp thê": nhấn vào hành động lấy vợ cụ thể, nhất là khi có nói tới việc chọn vợ hay nạp thêm thiếp sau đó.
+  - "thành gia": khi ngữ cảnh là nỗi lo/mong muốn của cha mẹ về việc con cái yên bề gia thất.
+- Dựng vợ gả chồng (thành ngữ chỉ việc kết hôn nói chung) → thành gia lập thất
 
 ## 7. QUY TRÌNH BẮT BUỘC trước khi báo hoàn thành mỗi chương (chạy lệnh, không chỉ đọc lại bằng mắt)
 
@@ -129,16 +148,17 @@ Lý do có mục này: rule ở mục 3, 5, 6 đã ghi rõ ràng nhưng vẫn b�
 Giả sử vừa dịch xong `vi/00XX.html` từ `cn/00XX.html`, chạy các lệnh sau (thay `00XX` bằng số chương thật):
 
 ```bash
-# 1. Xưng hô cha/mẹ: liệt kê thuần Việt trong bản dịch, đối chiếu với chữ Hán gốc tương ứng
-grep -n "\bcha\b\|Cha\b\|\bmẹ\b\|Mẹ\b" vi/00XX.html
-grep -n "父亲\|母亲\|爹\|娘" cn/00XX.html
-# Với mỗi dòng match: xác nhận 父亲/母亲 → đã dịch "phụ thân/mẫu thân" (không phải "cha/mẹ"),
-# chỉ 爹/阿爹/爹爹/娘 (khẩu ngữ) mới được giữ "cha/mẹ".
+# 1. Xưng hô cha/mẹ: liệt kê thuần Việt trong bản dịch — MỌI match đều phải sửa thành phụ thân/mẫu thân,
+# không còn ngoại lệ nào (kể cả 爹/娘 khẩu ngữ, tự xưng, hay thành ngữ).
+grep -ni "\bcha\b\|\bmẹ\b" vi/00XX.html
 
-# 2. Xưng hô anh em: bắt các từ thuần Việt còn sót
-grep -n "anh em\|anh trai\|em trai\|người anh\b" vi/00XX.html
-# Nếu có match mà không phải xưng hô tình cảm ngoài gia tộc (kiểu Điền Vân gọi "anh"),
-# phải sửa thành huynh đệ/ca ca/đệ đệ theo bảng ở mục 3.
+# 2. Xưng hô anh em: bắt các từ thuần Việt còn sót (LUÔN dùng -i, không phân biệt hoa/thường,
+# vì "Anh/Em" viết hoa đầu câu từng bị bỏ sót do chỉ grep chữ thường)
+grep -ni "\banh\b\|\bem\b\|anh em\|anh trai\|em trai\|người anh\b" vi/00XX.html
+# MỌI match đều phải sửa thành huynh/muội/ca ca/đệ đệ/huynh đệ theo bảng ở mục 3 —
+# kể cả xưng hô tình cảm/ngoài gia tộc (đã bỏ ngoại lệ dùng "anh/em" cho trường hợp này).
+# Ngoại lệ duy nhất: cụm "cô em X" mang nghĩa "cô gái X" chung chung, không phải xưng hô
+# huyết thống/tình cảm trực tiếp, thì được giữ nguyên.
 
 # 3. Xưng hô chú/thúc: bắt "chú X" thuần Việt còn sót cho xưng hô xã giao ngoài xã hội
 grep -n "[Cc]hú [A-ZĐ]" vi/00XX.html
@@ -148,11 +168,104 @@ grep -n "[Cc]hú [A-ZĐ]" vi/00XX.html
 grep -n "\bcon\b\|\bcháu\b" vi/00XX.html
 # Với MỖI dòng match: xác định người nói, người nghe, quan hệ thực (tra chữ lót/cây quan hệ đã biết).
 # Nếu là anh-em/đường huynh đệ/sư huynh đệ (không phải cha mẹ - con cháu), phải sửa lại xưng hô.
+# Đồng thời, với MỖI dòng là lời TỰ XƯNG thật sự (không phải được gọi tới, không phải sở hữu cách,
+# không phải độc thoại nội tâm một mình): tra đúng bảng ở mục 6 để đổi "con"/"cháu" sang
+# hài nhi/điệt nhi/tôn nhi/tiểu điệt theo quan hệ với NGƯỜI NGHE. Chiều được gọi tới và độc thoại
+# nội tâm thì giữ nguyên "con"/"cháu" — không đổi.
 ```
 
 Chỉ được coi chương là hoàn thành sau khi đã chạy đủ 4 lệnh trên và xử lý hết các match đáng ngờ. Nếu phát hiện lỗi qua các lệnh này, phải tự sửa ngay, không chờ người dùng phát hiện rồi mới sửa.
 
-## 8. Ghi chú chung
+### 7.1 Bước kiểm tra thứ 5 (BẮT BUỘC): rà câu quá dài kiểu dịch máy
+
+Lý do có bước này: lỗi thực tế ở chương 19 (đã bị người dùng phát hiện, xem thêm mục 4.1) là dịch một câu Hán nhiều mệnh đề thành một câu tiếng Việt dài lê thê giữ nguyên thứ tự mệnh đề gốc, đọc "trơn tuột" như convert máy. Rule ở mục 4.1 đã ghi nhưng chỉ dựa vào đọc lại bằng mắt nên vẫn bị bỏ sót ở chương 20-22. Vì vậy sau khi dịch xong mỗi chương, PHẢI chạy thêm lệnh sau để rà toàn bộ câu dài trong file vừa dịch (thay `00XX` bằng số chương thật):
+
+```bash
+python3 -c "
+import re, sys
+path = 'vi/00XX.html'
+html = open(path, encoding='utf-8').read()
+for i, p in enumerate(re.findall(r'<p>(.*?)</p>', html, re.S), 1):
+    text = re.sub(r'<.*?>', '', p)
+    for s in re.split(r'(?<=[.!?])\s+', text):
+        s = s.strip()
+        if len(s) > 200 or s.count(',') >= 5:
+            print(f'[p{i}] ({len(s)} ky tu, {s.count(\",\")} dau phay): {s}')
+"
+```
+
+Với MỖI câu bị liệt kê ra, tự hỏi: câu này là (a) một chuỗi HÀNH ĐỘNG/SỰ KIỆN nối tiếp nhau theo đúng thứ tự mệnh đề Hán gốc (dấu hiệu dịch máy, PHẢI tách thành 2-3 câu ngắn hơn bằng dấu chấm), hay (b) một câu liệt kê/miêu tả tự nhiên (nhiều tính từ tả ngoại hình, nhiều đầu mục trong một câu thông báo/liệt kê, cấu trúc song song "vừa... vừa...") mà tiếng Việt vẫn viết dài tương tự (loại này được giữ nguyên, không cần tách). Chỉ tách loại (a); không tách máy móc mọi câu bị liệt kê chỉ vì dài.
+
+Chỉ được coi chương là hoàn thành sau khi đã chạy lệnh này và xử lý xong loại (a).
+
+## 8. Bảng quan hệ nhân vật đã xác nhận (BẮT BUỘC cập nhật khi có nhân vật/quan hệ mới)
+
+Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, không chỉ riêng nhà họ Lý. Trước khi dịch bất kỳ lượt xưng hô nào giữa hai nhân vật, PHẢI tra bảng dưới đây để xác định đúng bản chất quan hệ (tra chữ lót, vai vế, huyết thống thật sự), KHÔNG suy diễn theo giọng điệu câu thoại (xem lại lỗi thực tế đã nêu ở mục 5).
+
+**Khi dịch xong một chương mà xuất hiện nhân vật mới hoặc quan hệ mới** (dòng họ khác, nhân vật ngoài xã hội, thông gia, kết nghĩa...), PHẢI bổ sung ngay một dòng vào bảng tương ứng bên dưới trước khi báo hoàn thành chương, không chờ tích lũy nhiều chương mới cập nhật một lần. Nếu đọc chương sau mới phát hiện thông tin ở bảng này bị sai/thiếu (ví dụ suy đoán nhầm vai vế), PHẢI sửa lại ngay trong bảng, không giữ thông tin cũ sai.
+
+### 8.1 Gia tộc họ Lý (nhánh chính - gia đình Lý Mộc Điền)
+
+- Lý Mộc Điền: phụ thân của 4 anh em bên dưới; là "đại bá" (bác cả) của Lý Diệp Thịnh, Lý Diệp Sinh.
+- 4 con trai theo thứ tự lớn - nhỏ: Lý Trường Hồ (đại ca) > Lý Thông Nhai (nhị ca) > Lý Hạng Bình (tam đệ) > Lý Xích Kính (tứ đệ/út). Xưng hô giữa 4 anh em: đại ca/nhị ca/tam đệ/tứ đệ hoặc gọi thẳng tên, KHÔNG dùng "con" cho nhau (chỉ dùng "con" khi nói với Lý Mộc Điền, xem cảnh báo mục 3).
+- Lý Trường Hồ - vợ Nhậm Bình Nhi: vợ chồng. Nhậm Bình Nhi xưng "thiếp", gọi chồng bằng tên "Trường Hồ"; Trường Hồ gọi vợ bằng tên tục "Bình nhi".
+- Lý Hạng Bình - Điền Vân: đã đính ước (lễ nạp thải ở chương 10), từ chương 28 đã thành thân, Điền Vân đang mang thai. Xưng hô huynh/muội theo mục 3.
+- Lý Huyền Tuyên (Tuyên nhi, con di phúc của Lý Trường Hồ, sinh chương 18): từ chương 30 đã tới tuổi đi học. Gọi Lý Hạng Bình (chú ruột) là "tam thúc"; Lý Hạng Bình khi nói chuyện với Tuyên nhi tự xưng "tam thúc" thay "ta". Gọi Lý Diệp Sinh (đường thúc, không ruột thịt) là "Diệp Sinh thúc" theo lối ghép tên + thúc ở mục 2.
+- Lý Tạ Văn: con trai của Lý Diệp Sinh (Lý gia đứng ra cưới vợ cho Diệp Sinh), bạn chơi cùng của Lý Huyền Tuyên.
+- Lý Trường Hồ - Liễu Lâm Phong: cháu - cậu ruột (Liễu Lâm Phong là anh trai ruột của mẫu thân Liễu Lâm Vân). Trường Hồ gọi ông là "đại cữu"; các em Trường Hồ (Thông Nhai, Hạng Bình, Xích Kính) gọi chung là "cữu".
+- Lý Trường Hồ bị thích khách (dư đảng nhà họ Nguyên) giết chết ở chương 16; vợ Nhậm Bình Nhi khi đó đang mang thai. Con trai di phúc của Trường Hồ - Nhậm Bình Nhi sinh ra ở chương 18, đặt tên Lý Huyền Tuyên (gọi thân mật "Tuyên nhi"). Từ chương 18, Lý Mộc Điền lập ra bài thơ vai vế cho các đời sau của nhà họ Lý (trích từ «Tiếp Dẫn pháp», lấy theo tên sáu luân Thai Tức): "Huyền Cảnh Uyên Thanh, Hi Nguyệt Thừa Minh. Chu Hành Giáng Khuyết, Toại Ngữ Thanh Nguyên. Ngọc Kinh Ánh Tượng, Duy Kiến Linh Sơ." - con cháu đời sau đặt tên theo chữ lót "Huyền" (con trai) / "Cảnh" (con gái) của đời đầu tiên trong bài thơ, các đời tiếp theo lần lượt lấy chữ kế tiếp.
+
+### 8.2 Nhánh họ Lý khác - gia đình "nhị bá" (Lý Diệp Thịnh, Lý Diệp Sinh)
+
+- Cha của Lý Diệp Thịnh và Lý Diệp Sinh là em ruột của Lý Mộc Điền (Lý Mộc Điền là đại bá/anh cả, cha của hai người này là nhị bá/em thứ hai trong đời đó). Cả hai đã qua đời trước/trong lúc truyện kể (mẹ mất trước, cha liệt giường rồi mất ở chương 13).
+- Lý Diệp Thịnh (ca ca) - Lý Diệp Sinh (đệ đệ): anh em ruột.
+- Lý Diệp Thịnh, Lý Diệp Sinh so với 4 anh em nhà Lý Mộc Điền: đường huynh/đường đệ (anh em họ cùng tộc, KHÔNG phải anh em ruột, KHÔNG phải cha-con dù có thoại mang giọng dạy dỗ, che chở).
+  - Lý Diệp Thịnh, Lý Diệp Sinh gọi Lý Mộc Điền: "bá phụ" (bác ruột nội tộc, KHÔNG dùng "Lý thúc" xã giao cho quan hệ này vì có cùng huyết thống họ Lý).
+- Lý Diệp Thịnh bị Lý Hạng Bình giết ở chương 13 vì rình mò phát hiện bí mật tu luyện của nhà họ Lý.
+
+### 8.3 Gia đình họ Điền
+
+- Điền Thủ Thủy - Lý Mộc Điền: huynh đệ kết nghĩa (không cùng huyết thống), KHÔNG phải quan hệ cha-con dù Điền Thủ Thủy nhỏ tuổi hơn nhiều và theo Lý Mộc Điền từ năm 5 tuổi. Khi hai người nói chuyện riêng: Điền Thủ Thủy tự xưng "đệ", gọi Lý Mộc Điền là "đại ca"; ra ngoài xã hội, dân làng (kể cả chính Điền Vân) gọi ông là "Điền thúc".
+- Điền Thủ Thủy - Điền Vân: cha - con gái ruột.
+- Điền Vân gọi Lý Mộc Điền: "Lý thúc" (xã giao, không phải "bá phụ" vì không cùng huyết thống họ Lý).
+
+### 8.4 Gia đình họ Nhậm (nhà vợ Lý Trường Hồ)
+
+- Nhậm Bình An: phụ thân của Nhậm Bình Nhi, từng cùng tòng quân và nương tựa lẫn nhau với Lý Mộc Điền và Điền Thủ Thủy.
+- Nhậm Bình Nhi - Lý Mộc Điền: con dâu - cha chồng, Nhậm Bình Nhi gọi ông là "phụ thân".
+- Lưu ý chính tả: chương 7 từng ghi "nhà họ Nhiệm" thay vì "Nhậm" - đây là MỘT họ duy nhất, chỉ là lỗi chính tả cũ, khi có dịp rà lại chương cũ cần thống nhất về "Nhậm".
+
+### 8.5 Nhân vật/gia tộc khác trong thôn (xã giao, tá điền)
+
+- Hàn Văn Hứa: tiên sinh dạy chữ trong thôn, bạn của Lý Mộc Điền. Các con Lý Mộc Điền và dân làng đều gọi ông là "tiên sinh".
+- Lão Từ (徐老汉): lão nông sống ở đầu thôn Lê Kính, hơn hai mươi năm trước từng làm tá điền cho nhà họ Nguyên, nay là người trong thôn thân thiết với nhà họ Lý (đan dế cỏ tặng đứa nhỏ chưa sinh của Nhậm Bình Nhi). Vai vế trưởng bối so với thế hệ Lý Trường Hồ.
+- Nhậm thúc: cách Lý Trường Hồ gọi Nhậm Bình An (nhạc phụ), song hàng với "Điền thúc".
+- Trần Nhị Ngưu: tá điền nhà họ Lý, lấy một người con gái dòng thứ xuất trong họ Lý nên trở thành "cô trượng" (chồng của một vị cô/em gái khác mẹ) đối với thế hệ Lý Trường Hồ. Lý Trường Hồ gọi ông là "cô trượng"; Trần Nhị Ngưu xưng hô khiêm nhường khi nói chuyện với con cháu họ Lý, tự thấy không xứng được xưng hô ngang vai.
+- Hứa Văn Sơn (许文山): đầu lĩnh đám nạn dân chạy tới thôn Lê Kính ở chương 18 (lúc đó chỉ gọi là "trung niên nhân"), từ chương 21 trở thành tá điền nhà họ Lý, ăn nói khéo léo, dần thế chỗ Trần Nhị Ngưu làm đầu lĩnh tá điền khiến Trần Nhị Ngưu ấm ức. Không có quan hệ huyết thống với nhà họ Lý; xưng hô xã giao thông thường (không phải "X thúc" vì vai vế ngang hoặc thấp hơn trong nhóm tá điền, không phải trưởng bối đáng kính như Điền thúc/Lão Từ).
+
+### 8.6a Nhánh họ Diệp quy tông (từ chương 22, 24) và các đệ tử nhỏ tuổi khác
+
+- Nhánh họ Diệp (叶氏, xem mục 1 - đã đổi từ họ Lý sang họ Diệp nhiều đời trước vì phạm lỗi) chính thức quy tông đổi lại họ Lý ở chương 24, sau khi con em trong nhánh xuất hiện người có linh khiếu.
+- Diệp Thừa Phúc (叶承福, xuất hiện lần đầu ở chương 8 với tên gọi "cháu Diệp Thừa Phúc") - sau chương 24 đổi thành Lý Thừa Phúc. Vai vế NGANG với thế hệ Lý Thông Nhai/Lý Hạng Bình (gọi nhau là "huynh/đệ" ngang hàng, xem chương 24 "Chúc mừng Thừa Phúc huynh"); so với Lý Mộc Điền là hàng cháu (Lý Mộc Điền gọi ông là "cháu", Thừa Phúc tự xưng "cháu" khi nói với Lý Mộc Điền, KHÔNG dùng "con").
+- Con trai của Diệp/Lý Thừa Phúc là Diệp Thu Dương (叶秋阳) - sau chương 24 đổi thành Lý Thu Dương, có linh khiếu, được nhận «Thanh Nguyên Dưỡng Luân Pháp» và theo Lý Hạng Bình tu luyện ở thôn Kính Dương. Vai vế thấp hơn Thừa Phúc một bậc, tức hàng CHÁU của Lý Mộc Điền cũng dùng "cháu" khi nói với/về Lý Mộc Điền (không phải "con" dù Lý Mộc Điền có vai trò như người đỡ đầu/tộc trưởng dạy dỗ trực tiếp) - Thu Dương chỉ xưng "con" với phụ thân ruột Lý Thừa Phúc.
+- Liễu Nhu Huyến (柳柔绚, chương 23): thiếu nữ họ Liễu ở thôn Kính Dương, có linh khiếu, được Lý Mộc Điền sai Lý Thông Nhai dẫn về nuôi dạy ở tiểu viện Lê Kính (chưa dạy pháp thuật ngay, đề phòng nhà họ Liễu lớn mạnh). Chưa có quan hệ huyết thống với nhà họ Lý.
+- Trần Lực Phu (陈力夫, chương 23): trẻ em họ Trần ở Lê Xuyên Khẩu được kiểm tra linh khiếu, không có linh khiếu. Trần Trường Hộ (陈长户, chương 23): trưởng tộc họ Trần ở Lê Xuyên Khẩu, dẫn đoàn trẻ em đi kiểm tra, không có quan hệ huyết thống với nhà họ Lý.
+
+### 8.6 Nhân vật tu tiên ngoài thôn (từ chương 19)
+
+- Tư Nguyên Bạch (司元白): tu sĩ Trúc Cơ, phong chủ Thanh Tuệ phong thuộc Thanh Trì Tông, xuất hiện từ chương 19 khi bay ngang núi Đại Lê phát hiện ra Lý Xích Kính đột phá. Không có quan hệ huyết thống/gia tộc với nhà họ Lý; xưng hô với người nhà họ Lý theo lối tu sĩ ngoài xã hội (đạo hữu, tiền bối - vãn bối) theo mục 2.
+
+### 8.7 Lý Xích Kính tại tông môn & thế lực ngoài nhà họ Lý (từ chương 28)
+
+- Lý Xích Kính (tứ đệ/út nhà họ Lý) đang tu luyện tại một tông môn ở Thanh Tuệ phong (青穗峰, trùng âm Hán Việt với Thanh Tuệ phong của Tư Nguyên Bạch ở mục 8.6 dù chữ Hán gốc khác - 慧 và 穗 đều đọc là "Tuệ"). Sư huynh của Kính là Tiêu Nguyên Tư (萧元思); hai người xưng hô sư huynh/sư đệ theo mục 2, 3.
+- Thang Kim Môn (镗金门), nhà họ Cấp (汲家/汲氏, gia chủ Cấp Đăng Tề 汲登齐): tiên tông đối địch, đóng ở phía bắc nước Đại Từ (大徐), thế lực ngang với Thanh Trì Tông, tranh chấp biên giới với Thanh Trì Tông nhiều năm. Không có quan hệ huyết thống với nhà họ Lý.
+- Nhà họ Vạn (万家), thuộc Thanh Trì Tông trị hạ, láng giềng phía đông nhà họ Lý (theo đại đạo Cổ Lê), đóng tại Hoa Thiên sơn (华芊山, bản gia): gia chủ Vạn Tiêu Hoa (万萧华, xuất hiện chương 31), tu vi Ngọc Kinh luân đỉnh phong; con trai Vạn Nguyên Khải (万元凯, mới tu thành Thanh Nguyên luân) đại diện gia đình tới bái phỏng nhà họ Lý từ chương 28, xin kết minh vì bị nhà họ Cấp liên tục cướp bóc linh điền. Không có quan hệ huyết thống với nhà họ Lý; xưng hô ngoài xã hội theo mục 2 (đạo hữu, huynh/đệ ngang vai khi thân thiết). Vạn Tiêu Hoa nói chuyện với con trai Vạn Nguyên Khải trong các buổi họp gia tộc: gọi thẳng tên hoặc "con" (chiều được gọi tới), Nguyên Khải tự xưng theo ngữ cảnh.
+- Vạn Thiên Thương (万天仓, chương 31): thủ hạ nhà họ Vạn, ăn nói khéo léo và cẩn trọng, được Vạn Tiêu Hoa cử đi bí mật tiếp xúc nhà họ Lý (đóng vai người đi săn tới xin gặp). Không có quan hệ huyết thống với nhà họ Lý hay nhà họ Vạn; xưng hô với người nhà họ Lý theo lối tu sĩ ngoài xã hội (tiền bối - vãn bối, đạo hữu) theo mục 2.
+- Núi Dư Bộ (余部山): ranh giới cũ giữa nhà họ Vạn và nhà họ Cấp trước khi bị nhà họ Cấp lấn tới đại đạo Cổ Lê. Thăng Dương phủ (升阳府): địa danh nơi tu sĩ Ngọc Kinh luân nhà họ Vạn tu luyện. Cửa Lê Đạo (黎道口): nơi Vạn Nguyên Khải cho tộc đệ giả chết lánh tới.
+- Sơn Việt (山越): dị tộc miền núi phía tây nhà họ Lý (qua đại đạo Cổ Lê), từng giao tranh với Lý Mộc Điền thời trẻ; có vu sư biết trù ẻo, dùng thú.
+- Tên các "luân" (cảnh giới tu luyện nhỏ trong Thai Tức, lấy theo «Tiếp Dẫn pháp», trùng với bài thơ đặt tên chữ lót các đời họ Lý ở mục 8.1): theo thứ tự Huyền Cảnh luân → Uyên Thanh luân → Hi Nguyệt luân → Thừa Minh luân → Chu Hành luân → Giáng Khuyết luân → Toại Ngữ luân → Thanh Nguyên luân → Ngọc Kinh luân → Ánh Tượng luân → Duy Kiến luân → Linh Sơ luân.
+
+## 9. Ghi chú chung
 
 - Trình bày dấu câu: Giữ nguyên dấu ngoặc câu thoại/tên sách theo chuẩn tiếng Việt: 「」《》 → "..." hoặc «...».
 - Can thiệp nội dung: Không tự ý thêm/bớt câu, không chèn lời giải thích của người dịch vào thân văn bản.

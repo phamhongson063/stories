@@ -41,7 +41,7 @@
   }
   .toolbar button:active { background: #f0e6cf; }
   .toolbar input {
-    width: 64px;
+    width: 75px;
     text-align: center;
     cursor: text;
     -webkit-appearance: none;
@@ -74,7 +74,7 @@
     .btn-label-full { display: none; }
     .btn-label-short { display: inline; }
     .toolbar input {
-      width: 52px;
+      width: 75px;
     }
     .frame-wrap {
       height: calc(100% - 58px);
@@ -96,20 +96,22 @@
 <body>
   <div class="toolbar">
     <button id="prevBtn">
-      <span class="btn-label-full">‹ Chương trước</span>
-      <span class="btn-label-short">‹ Trước</span>
+      <span class="btn-label-full">‹‹</span>
+      <span class="btn-label-short">‹</span>
     </button>
     <input id="chapterInput" type="text" inputmode="numeric">
-    <button id="goBtn">Đến</button>
+    <button id="goBtn">Go</button>
     <button id="nextBtn">
-      <span class="btn-label-full">Chương sau ›</span>
-      <span class="btn-label-short">Sau ›</span>
+      <span class="btn-label-full">›</span>
+      <span class="btn-label-short">››</span>
     </button>
+    <button id="playBtn" title="Phát audio chương này">▶</button>
     <button id="audioBtn" title="Nghe audio">🔊</button>
   </div>
   <div class="frame-wrap">
     <iframe id="content"></iframe>
   </div>
+  <audio id="inlinePlayer"></audio>
 
 <script>
 function getStorySlug() {
@@ -142,6 +144,11 @@ function loadChapter(num) {
   const url = new URL(window.location);
   url.searchParams.set('ch', padded);
   window.history.replaceState({}, '', url);
+
+  const inlinePlayer = document.getElementById('inlinePlayer');
+  inlinePlayer.pause();
+  inlinePlayer.src = '../../' + STORY + '/audio/' + padded + '.mp3';
+  document.getElementById('playBtn').textContent = '▶';
 }
 
 document.getElementById('prevBtn').addEventListener('click', () => {
@@ -161,6 +168,22 @@ document.getElementById('goBtn').addEventListener('click', () => {
 
 document.getElementById('chapterInput').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') document.getElementById('goBtn').click();
+});
+
+document.getElementById('playBtn').addEventListener('click', () => {
+  const inlinePlayer = document.getElementById('inlinePlayer');
+  const playBtn = document.getElementById('playBtn');
+  if (inlinePlayer.paused) {
+    inlinePlayer.play();
+    playBtn.textContent = '⏸';
+  } else {
+    inlinePlayer.pause();
+    playBtn.textContent = '▶';
+  }
+});
+
+document.getElementById('inlinePlayer').addEventListener('ended', () => {
+  document.getElementById('playBtn').textContent = '▶';
 });
 
 document.getElementById('audioBtn').addEventListener('click', () => {
