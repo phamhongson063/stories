@@ -173,6 +173,45 @@ grep -n "\bcon\b\|\bcháu\b" vi/00XX.html
 # không phải độc thoại nội tâm một mình): tra đúng bảng ở mục 6 để đổi "con"/"cháu" sang
 # hài nhi/điệt nhi/tôn nhi/tiểu điệt theo quan hệ với NGƯỜI NGHE. Chiều được gọi tới và độc thoại
 # nội tâm thì giữ nguyên "con"/"cháu" — không đổi.
+
+# 5. Đại từ ngôi thứ ba "ông": liệt kê toàn bộ để kiểm tra có đúng nhân vật/ngữ cảnh không.
+# BẮT BUỘC dùng -i: lỗi thực tế đã xảy ra là "Ông" viết hoa đầu câu (rất phổ biến vì đại từ
+# ngôi thứ ba hay đứng đầu câu) bị lọt lưới do lệnh grep cũ không có -i, chỉ bắt được "ông"
+# viết thường. Dùng lệnh python dưới đây thay vì grep thường, vì "\b" của grep không nhận diện
+# đúng ranh giới từ tiếng Việt có dấu (ví dụ tách nhầm "đàn ông" thành "đàn " + "ông" nhưng lại
+# không lọc được các trường hợp dính chữ có dấu khác) — dùng regex Python với lookaround Unicode
+# cho chắc:
+python3 -c "
+import re
+html = open('vi/00XX.html', encoding='utf-8').read()
+for i, line in enumerate(html.splitlines(), 1):
+    for m in re.finditer(r'(?<![A-Za-zÀ-ỹ])[Ôô]ng(?![A-Za-zÀ-ỹ])', line):
+        print(i, line.strip())
+        break
+"
+# Bỏ qua các match nằm trong cụm từ ghép không phải đại từ ngôi thứ ba, ví dụ "đàn ông" (danh từ
+# chung nghĩa "người nam giới"), "ông cụ"/"ông lão"/"ông già" (cụm danh từ chỉ người già nói chung,
+# không phải đại từ thay tên riêng — vẫn hợp lệ nếu nhân vật đó đúng là già thật).
+#
+# Theo mục 3: "ông" (ngôi thứ ba) CHỈ dùng cho nhân vật là bậc tiền bối/cao nhân đáng kính (già,
+# vai vế cao, được kính trọng) — ví dụ Lý Mộc Điền, Điền Thủ Thủy, Liễu Lâm Phong, Tiêu Sơ Đình.
+# TUYỆT ĐỐI KHÔNG dùng "ông" cho nhân vật trẻ tuổi/vai vế thấp/ngang hàng chỉ vì câu văn đang
+# nói trang trọng — lỗi thực tế ở chương 46: Lý Xích Kính là thiếu niên ~16 tuổi nhưng bị dịch
+# nhầm thành "ông" (phải sửa lại là "hắn").
+# Bẫy thường gặp cần đặc biệt cảnh giác:
+#   - Nhân vật là tu sĩ/tu tiên: KHÔNG suy ra tuổi thật từ dáng vẻ "trung niên/lão niên" bề ngoài —
+#     tu sĩ Luyện Khí trở lên sống rất thọ, dung mạo già/trẻ không phản ánh đúng tuổi tác hay vai vế
+#     thật; phải tra tu vi, quan hệ sư môn, cách xưng hô của người khác với họ trong chính đoạn văn
+#     đó để xác định có đáng dùng "ông" hay không, không suy diễn qua ngoại hình.
+#   - Nhân vật là sư huynh/sư đệ/sư tỷ/sư muội, đường huynh/đường đệ, hoặc bạn đồng trang lứa của
+#     nhân vật chính: dù lời thoại của họ mang giọng điệu dạy dỗ/che chở/quyền uy, vẫn KHÔNG đương
+#     nhiên là bậc trưởng bối đáng kính — chỉ dùng "ông" nếu có bằng chứng rõ ràng về tuổi tác cao/
+#     vai vế cao (ví dụ được gọi là "tiền bối", "sư thúc/sư bá", hoặc mô tả rõ là già).
+#   - Gia chủ/tộc trưởng/phong chủ trẻ tuổi (ví dụ Vạn Nguyên Khải mới kế vị) KHÔNG mặc định là
+#     "ông" chỉ vì có chức vị — chức vị cao không đồng nghĩa tuổi tác cao.
+# Với MỖI dòng match: xác định nhân vật được nhắc tới là ai, tra tuổi/vai vế thật (chữ lót đời,
+# bảng quan hệ mục 8, hoặc mô tả tuổi tác trong chính chương/các chương trước). Nếu KHÔNG phải
+# bậc trưởng bối/cao niên đáng kính, phải sửa lại theo mục 3 (nam trẻ/ngang vai → "hắn"; nữ → "nàng").
 ```
 
 Chỉ được coi chương là hoàn thành sau khi đã chạy đủ 4 lệnh trên và xử lý hết các match đáng ngờ. Nếu phát hiện lỗi qua các lệnh này, phải tự sửa ngay, không chờ người dùng phát hiện rồi mới sửa.
@@ -199,6 +238,28 @@ Với MỖI câu bị liệt kê ra, tự hỏi: câu này là (a) một chuỗi
 
 Chỉ được coi chương là hoàn thành sau khi đã chạy lệnh này và xử lý xong loại (a).
 
+Song song với việc tách câu, PHẢI giữ dấu câu tự nhiên bên trong câu: không viết một mạch dài lê thê không có lấy một dấu phẩy. Lý do không chỉ là văn phong — bản dịch được đưa thẳng vào TTS, và bộ cắt đoạn của TTS chỉ cắt được ở dấu chấm, chấm hỏi, chấm than, phẩy, chấm phẩy, hai chấm. Một mạch liền không dấu phẩy dài quá thì không có chỗ nào để cắt, cả bộ cắt đoạn lẫn lớp cắt dự phòng của model đều bó tay, đoạn audio sinh ra vượt cửa sổ 22 giây và bị rối tiếng ở phần đuôi.
+
+Vì vậy chạy thêm lệnh sau để rà các mạch không có dấu ngắt:
+
+```bash
+python3 -c "
+import re
+path = 'vi/00XX.html'
+html = open(path, encoding='utf-8').read()
+for i, p in enumerate(re.findall(r'<p>(.*?)</p>', html, re.S), 1):
+    text = re.sub(r'<.*?>', '', p)
+    for run in re.split(r'[,;:.!?…]', text):
+        run = run.strip()
+        if len(run) > 150:
+            print(f'[p{i}] ({len(run)} ky tu khong dau ngat): {run}')
+"
+```
+
+Ngưỡng 150 ký tự là mức cảnh báo sớm, không phải mức hỏng: mạch dài nhất trong văn bản dịch bình thường vào khoảng 130 ký tự, còn mức thật sự vượt cửa sổ TTS là quanh 230 ký tự. Với mỗi mạch bị liệt kê, chèn dấu phẩy vào đúng chỗ ngắt hơi tự nhiên hoặc tách câu — KHÔNG chèn dấu phẩy máy móc cho đủ ngưỡng, vì dấu phẩy nào cũng thành một quãng nghỉ khi đọc.
+
+Ngược lại, KHÔNG đặt giới hạn độ dài câu vì lý do TTS: bộ cắt đoạn tự gom và tự cắt câu dài ở dấu phẩy, câu dài bao nhiêu cũng không sao miễn là bên trong có dấu ngắt.
+
 ## 8. Bảng quan hệ nhân vật đã xác nhận (BẮT BUỘC cập nhật khi có nhân vật/quan hệ mới)
 
 Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, không chỉ riêng nhà họ Lý. Trước khi dịch bất kỳ lượt xưng hô nào giữa hai nhân vật, PHẢI tra bảng dưới đây để xác định đúng bản chất quan hệ (tra chữ lót, vai vế, huyết thống thật sự), KHÔNG suy diễn theo giọng điệu câu thoại (xem lại lỗi thực tế đã nêu ở mục 5).
@@ -212,7 +273,7 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - 4 con trai theo thứ tự lớn - nhỏ: Lý Trường Hồ (đại ca) > Lý Thông Nhai (nhị ca) > Lý Hạng Bình (tam đệ) > Lý Xích Kính (tứ đệ/út). Xưng hô giữa 4 anh em: đại ca/nhị ca/tam đệ/tứ đệ hoặc gọi thẳng tên, KHÔNG dùng "con" cho nhau (chỉ dùng "con" khi nói với Lý Mộc Điền, xem cảnh báo mục 3).
 - Lý Trường Hồ - vợ Nhậm Bình Nhi: vợ chồng. Nhậm Bình Nhi xưng "thiếp", gọi chồng bằng tên "Trường Hồ"; Trường Hồ gọi vợ bằng tên tục "Bình nhi".
 - Lý Hạng Bình - Điền Vân: đã đính ước (lễ nạp thải ở chương 10), từ chương 28 đã thành thân, Điền Vân đang mang thai. Xưng hô huynh/muội theo mục 3.
-- Lý Huyền Tuyên (Tuyên nhi, con di phúc của Lý Trường Hồ, sinh chương 18): từ chương 30 đã tới tuổi đi học. Gọi Lý Hạng Bình (chú ruột) là "tam thúc"; Lý Hạng Bình khi nói chuyện với Tuyên nhi tự xưng "tam thúc" thay "ta". Gọi Lý Diệp Sinh (đường thúc, không ruột thịt) là "Diệp Sinh thúc" theo lối ghép tên + thúc ở mục 2.
+- Lý Huyền Tuyên (Tuyên nhi, con di phúc của Lý Trường Hồ, sinh chương 18): từ chương 30 đã tới tuổi đi học. Gọi Lý Hạng Bình (chú ruột) là "tam thúc"; Lý Hạng Bình khi nói chuyện với Tuyên nhi tự xưng "tam thúc" thay "ta". Gọi Lý Diệp Sinh (đường thúc, không ruột thịt) là "Diệp Sinh thúc" theo lối ghép tên + thúc ở mục 2. Gọi Lý Xích Kính (tứ thúc/chú út ruột) là "quý phụ" (chương 57, dùng cổ xưng "季父" thay vì "tứ thúc" thông thường).
 - Lý Tạ Văn: con trai của Lý Diệp Sinh (Lý gia đứng ra cưới vợ cho Diệp Sinh), bạn chơi cùng của Lý Huyền Tuyên.
 - Lý Hạng Bình - Điền Vân (chương 37): sinh song thai một trai một gái, đặt tên theo chữ lót đời sau của Huyền Tuyên là "Cảnh" (nữ)/"Huyền" (nam, dùng lại chữ của đời Huyền Tuyên vì cùng thế hệ con của tam thúc): con trai Lý Huyền Phong, con gái Lý Cảnh Điềm.
 - Lý Huyền Tuyên (từ chương 37): thực ra bản thân có linh khiếu, nhưng Lý Hạng Bình (tam thúc) cố ý che giấu, giả bộ trước mặt Lý Thu Dương rằng chính Thu Dương "sắp luyện thành Huyền Cảnh luân" để đánh lạc hướng, chưa công khai chuyện Huyền Tuyên có linh khiếu. Huyền Tuyên tự xưng "điệt nhi" khi nói với tam thúc Hạng Bình (đúng theo bảng tự xưng mục 6, vì là cháu gọi theo chú).
@@ -246,7 +307,7 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Hàn Văn Hứa: tiên sinh dạy chữ trong thôn, bạn của Lý Mộc Điền. Các con Lý Mộc Điền và dân làng đều gọi ông là "tiên sinh".
 - Lão Từ (徐老汉): lão nông sống ở đầu thôn Lê Kính, hơn hai mươi năm trước từng làm tá điền cho nhà họ Nguyên, nay là người trong thôn thân thiết với nhà họ Lý (đan dế cỏ tặng đứa nhỏ chưa sinh của Nhậm Bình Nhi). Vai vế trưởng bối so với thế hệ Lý Trường Hồ.
 - Nhậm thúc: cách Lý Trường Hồ gọi Nhậm Bình An (nhạc phụ), song hàng với "Điền thúc".
-- Trần Nhị Ngưu: tá điền nhà họ Lý, lấy một người con gái dòng thứ xuất trong họ Lý nên trở thành "cô trượng" (chồng của một vị cô/em gái khác mẹ) đối với thế hệ Lý Trường Hồ. Lý Trường Hồ gọi ông là "cô trượng"; Trần Nhị Ngưu xưng hô khiêm nhường khi nói chuyện với con cháu họ Lý, tự thấy không xứng được xưng hô ngang vai. Từ chương 40 giữ chức "chưởng sự" (quản việc) ở cửa Lê Xuyên. Có hai con trai: Trần Tam Thủy (trưởng tử) và Trần Cầu Thủy (con thứ) — cả hai tự xưng "hài nhi" khi nói với Trần Nhị Ngưu (cha ruột), gọi ông là "phụ thân". Cha mẹ ruột của Trần Nhị Ngưu đã chết trong trận đại hạn do yêu vật gây ra ở cửa Lê Xuyên nhiều năm trước (ông trốn một mình tới thôn Lê Kính, được nhà họ Lý nhận vào).
+- Trần Nhị Ngưu: tá điền nhà họ Lý, lấy một người con gái dòng thứ xuất trong họ Lý nên trở thành "cô trượng" (chồng của một vị cô/em gái khác mẹ) đối với thế hệ Lý Trường Hồ. Lý Trường Hồ gọi ông là "cô trượng"; Trần Nhị Ngưu xưng hô khiêm nhường khi nói chuyện với con cháu họ Lý, tự thấy không xứng được xưng hô ngang vai. Từ chương 40 giữ chức "chưởng sự" (quản việc) ở cửa Lê Xuyên. Có năm con trai (tiết lộ chương 57, tên đều liên quan sông hồ): Trần Tam Thủy (trưởng tử), Trần Cầu Thủy (con thứ), Trần Đông Hà (chương 57, khoảng sáu bảy tuổi, canh gác đầu thôn ở cửa Lê Xuyên, gọi Lý Xích Kính là "tiên sư đại nhân", tự xưng "vãn bối") và hai con trai khác chưa xuất hiện tên — cả các con tự xưng "hài nhi" khi nói với Trần Nhị Ngưu (cha ruột), gọi ông là "phụ thân". Cha mẹ ruột của Trần Nhị Ngưu đã chết trong trận đại hạn do yêu vật gây ra ở cửa Lê Xuyên nhiều năm trước (ông trốn một mình tới thôn Lê Kính, được nhà họ Lý nhận vào).
 - Hứa Văn Sơn (许文山): đầu lĩnh đám nạn dân chạy tới thôn Lê Kính ở chương 18 (lúc đó chỉ gọi là "trung niên nhân"), từ chương 21 trở thành tá điền nhà họ Lý, ăn nói khéo léo, dần thế chỗ Trần Nhị Ngưu làm đầu lĩnh tá điền khiến Trần Nhị Ngưu ấm ức. Không có quan hệ huyết thống với nhà họ Lý; xưng hô xã giao thông thường (không phải "X thúc" vì vai vế ngang hoặc thấp hơn trong nhóm tá điền, không phải trưởng bối đáng kính như Điền thúc/Lão Từ).
 
 ### 8.6a Nhánh họ Diệp quy tông (từ chương 22, 24) và các đệ tử nhỏ tuổi khác
@@ -265,8 +326,11 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 - Lý Xích Kính (tứ đệ/út nhà họ Lý) đang tu luyện tại một tông môn ở Thanh Tuệ phong (青穗峰, trùng âm Hán Việt với Thanh Tuệ phong của Tư Nguyên Bạch ở mục 8.6 dù chữ Hán gốc khác - 慧 và 穗 đều đọc là "Tuệ"). Sư huynh của Kính là Tiêu Nguyên Tư (萧元思); hai người xưng hô sư huynh/sư đệ theo mục 2, 3.
 - Viên Thoan (袁湍, xuất hiện lần đầu chương 22 là "tứ sư tỷ" tu vi tầng ba Luyện Khí): sư tỷ của Lý Xích Kính ở Thanh Tuệ phong. Chương 52-53: chăm sóc, trị thương cho Lý Xích Kính sau vụ va chạm với Đặng Cầu Chi; kể cho Kính biết bí mật lớn về Thái Âm nguyệt hoa (xem mục dưới). Chương 55: đang lái thuyền mây hà quang đi thu cung phụng ở Tầm Lâm Nguyên, đưa Lý Xích Kính về thăm nhà ở núi Đại Lê trên đường. Xưng hô sư huynh đệ/tỷ đệ theo mục 2 (Kính gọi "sư tỷ", tự xưng "sư đệ"; Thoan gọi Kính là "Kính nhi"/"ngươi").
+- Viên Hộ Viễn (袁护远, chương 57): tộc huynh của Viên Thoan, nhà họ Viên ở Tầm Lâm Nguyên (không cùng quận với nhà họ Lý). Tu vi Luyện Khí, mới nhập môn năm kia nên mang dung mạo trung niên dù tuổi tác trẻ hơn tướng mạo. Chở Lý Xích Kính từ Tầm Lâm Nguyên về hồ Vọng Nguyệt bằng phi thoa. Không có quan hệ huyết thống với nhà họ Lý; xưng hô ngoài xã hội theo mục 2 (tại hạ, đạo hữu, tiền bối - vãn bối).
 - Nguyên Ô phong (元乌峰) và nhà họ Đặng (邓家, chương 52): một thế lực/tông môn khác dưới Thanh Trì Tông. Đặng Cầu Chi (邓求之): tử đệ nhà họ Đặng, tu vi kỳ Luyện Khí, tính khí thất thường do di chứng luyện «Dạ Nguyệt Lẫm Khí» (công pháp 5 phẩm, thiếu mất "Thái Âm nguyệt hoa" nên gây hại tâm trí người luyện qua nhiều đời). Từng khiêu khích rồi giao đấu với Lý Xích Kính trên đường (chương 52), thua và tỏ ra nể trọng, hẹn tới Thanh Tuệ phong tạ lỗi. Không có quan hệ huyết thống với nhà họ Lý.
 - **Bí mật lớn về "Thái Âm nguyệt hoa" (từ chương 53)**: đây là phần "khí" bị thiếu trong ít nhất hai công pháp 5 phẩm cấp cao - «Dạ Nguyệt Lẫm Khí» của nhà họ Đặng và «Nguyệt Hồ Ánh Thu Quyết» của Thanh Trì Tông (cả hai đều có nguồn gốc từ Nguyệt Hoa Nguyên phủ của thượng tông, nơi đã lánh đời không xuất hiện nữa). Suốt mấy trăm năm, Tam Tông Thất Môn chỉ tìm được năm đạo Thái Âm nguyệt hoa, và TẤT CẢ đều lấy được từ hồ Vọng Nguyệt - chính là quê nhà họ Lý, nơi có Pháp Kính (Lục Giang Tiên, sở hữu Thái Âm Huyền Quang). Lý Xích Kính đã bắt đầu nghi ngờ mối liên hệ này. Đây là bí mật cực kỳ nhạy cảm, có thể khiến Pháp Kính bị các thế lực lớn nhắm tới nếu bị lộ.
+- **Tiết lộ lớn ở chương 58-59**: Pháp Kính có thể tự ngưng kết ra Thái Âm nguyệt hoa từ trong thân (không chỉ hấp thụ mà còn sinh ra được), khiến bí mật càng thêm nguy hiểm nếu lộ ra. Ghi chép chính thức của Thanh Trì Tông về sự kiện năm xưa ở hồ Vọng Nguyệt (nơi Pháp Kính/Lục Giang Tiên xuất thân): "Thu thất nguyệt, tản tu Lý Giang Quần đắc Nguyệt Hoa Nguyên phủ chính pháp, ngạo xưng tiên phủ dĩ diệt, Tam Tông Thất Môn thụ mệnh vây sát ư Vọng Nguyệt hồ chi thượng." Cái tên "Lý Giang Quần" khiến Lục Giang Tiên (đang lén quan sát qua thị thức) chấn động cực độ, ngất lịm ngay lập tức - ngụ ý Lục Giang Tiên có liên quan trực tiếp (có thể chính là hoặc có ký ức bị khóa liên quan tới) Lý Giang Quần, kẻ "truyền nhân tiên phủ" bị Tam Tông Thất Môn vây giết. Đây là bí mật cốt lõi về thân thế thật của Lục Giang Tiên, chưa được giải đáp.
+- Sở Minh Luyện (楚明炼, chương 60): chủ một tiệm nhỏ bán pháp khí ở phường thị hồ Vọng Nguyệt, dáng vẻ thô kệch nhưng giọng nói dịu dàng. Đã mua lại Hỏa Trung Sát Khí (火中煞气, loại linh khí tìm được trong động phủ núi Mi Xích ở chương 56) từ Lý Xích Kính để đổi lấy bút phù và túi trữ vật. Không có quan hệ huyết thống với nhà họ Lý; xưng hô ngoài xã hội theo mục 2 (tại hạ, đạo hữu).
 - Núi Mi Xích (眉尺山, chương 53): ngọn núi liền kề núi Lê Kính (vốn là hai đỉnh của cùng một dải núi), thuộc quyền quản của thôn Kính Dương. Từ chương 53-55: phát hiện một trận pháp cổ (ít nhất vài trăm năm tuổi) trên một sườn dốc, được Pháp Kính (Thái Âm Huyền Quang) phá vỡ ở chương 55, hé lộ một động phủ đá bên trong còn nguyên bảo vật. Lý Hạng Bình chủ trương giữ kín, không chia sẻ với nhà họ Vạn. Lý Thu Dương được giao quản lý khoảnh linh điền mới khai phá quanh đó.
 - Ninh Uyển (宁婉, chương 46): nữ tử tu sĩ ở Nguyệt Hồ phong (月湖峰, quản hạt bao gồm hồ Vọng Nguyệt - quê nhà họ Lý), cùng tông môn Thanh Trì Tông với Lý Xích Kính nhưng khác phong nên xưng hô đồng môn ngoài xã hội (đạo hữu, sư huynh đệ chung tông) theo mục 2, không phải sư huynh/sư đệ cùng thầy. Nhận lời Lý Xích Kính mang linh thạch về chiếu cố người nhà anh ở quận Lê Hạ khi đi thu cung phụng. Có chút bất mãn vì Tư Nguyên Bạch (ở Tầm Lâm Nguyên) từng "tranh người" đưa Lý Xích Kính - vốn sinh ra trong địa hạt Nguyệt Hồ phong của nàng - về Thanh Tuệ phong tu luyện. Không có quan hệ huyết thống với nhà họ Lý.
 - Thang Kim Môn (镗金门), nhà họ Cấp (汲家/汲氏, gia chủ Cấp Đăng Tề 汲登齐): tiên tông đối địch, đóng ở phía bắc nước Đại Từ (大徐), thế lực ngang với Thanh Trì Tông, tranh chấp biên giới với Thanh Trì Tông nhiều năm. Không có quan hệ huyết thống với nhà họ Lý.
