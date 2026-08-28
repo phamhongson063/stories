@@ -240,6 +240,8 @@ Bẫy thường gặp cần cảnh giác:
 - Tu sĩ: KHÔNG suy tuổi thật từ dáng vẻ trung niên/lão niên bề ngoài (Luyện Khí trở lên sống rất thọ) - phải tra tu vi, quan hệ sư môn, cách người khác xưng hô với họ trong chính đoạn văn.
 - Sư huynh/sư đệ/sư tỷ/sư muội, đường huynh/đường đệ, bạn đồng trang lứa: dù giọng thoại dạy dỗ/che chở/quyền uy vẫn KHÔNG đương nhiên là trưởng bối - chỉ dùng "ông" nếu có bằng chứng rõ ràng (được gọi "tiền bối", "sư thúc/sư bá", hoặc mô tả rõ là già).
 - Gia chủ/tộc trưởng/phong chủ trẻ tuổi (vd Vạn Nguyên Khải mới kế vị) KHÔNG mặc định "ông" chỉ vì chức vị.
+- Là phụ thân/tộc thúc của thế hệ nhân vật chính (tức có con cháu đang là nhân vật chính) KHÔNG đương nhiên đủ để dùng "ông" - phải tra xem CHÍNH nhân vật đó đã được xưng hô ra sao ở các chương trước, không suy đoán từ vai trò gia đình. Lỗi thực tế ch.166-179: Lý Huyền Phong, Lý Huyền Lĩnh, Lý Huyền Tuyên, Trần Đông Hà (thế hệ "Huyền", cha/tộc thúc của Lý Uyên Tu - Lý Uyên Giao) đã dùng nhất quán "hắn" xuyên suốt từ ch.149 trở đi (họ vẫn đang trong độ tráng niên hoạt động, chưa được mô tả già), nhưng bị dịch nhầm sang "ông" ở nhiều đoạn từ ch.166 đến ch.179 chỉ vì giọng văn trang trọng/vai vế phụ huynh. PHẢI giữ "hắn" cho 4 người này trừ khi có mô tả rõ ràng về tuổi già xuất hiện sau này. Ngược lại Lý Thông Nhai (thế hệ trên, đã ngoài 55-60) đã chuyển hẳn sang "ông" từ khoảng ch.161 khi truyện bắt đầu mô tả rõ tuổi tác của ông - giữ "ông" cho ông từ đó trở đi.
+- **Quy trình bắt buộc trước khi gán "ông" cho một nhân vật đã xuất hiện ở các chương trước**: chạy `grep` tên nhân vật kết hợp với câu liền sau trong vài chương gần nhất (hoặc chương xa hơn nếu nhân vật ít xuất hiện) để xem đại từ đã dùng là gì, rồi giữ nguyên - KHÔNG tự quyết theo cảm giác về vai vế/tuổi tác dù nghe có vẻ hợp lý.
 
 Với mỗi match: xác định nhân vật, tra tuổi/vai vế thật (chữ lót đời, bảng quan hệ mục 8, mô tả tuổi tác trong chương). Nếu không phải trưởng bối/cao niên đáng kính, sửa lại theo mục 3 (nam trẻ/ngang vai → "hắn"; nữ → "nàng").
 
@@ -292,6 +294,8 @@ Chỉ được coi chương là hoàn thành sau khi đã chạy 2 lệnh trên 
 Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, không chỉ riêng nhà họ Lý. Trước khi dịch bất kỳ lượt xưng hô nào giữa hai nhân vật, PHẢI tra bảng dưới đây để xác định đúng bản chất quan hệ (chữ lót, vai vế, huyết thống thật sự), KHÔNG suy diễn theo giọng điệu câu thoại (xem lỗi thực tế mục 5).
 
 **Khi dịch xong một chương mà xuất hiện nhân vật mới hoặc quan hệ mới** (dòng họ khác, nhân vật ngoài xã hội, thông gia, kết nghĩa...), PHẢI bổ sung ngay một dòng vào bảng tương ứng trước khi báo hoàn thành chương, không dồn nhiều chương mới cập nhật. Phát hiện thông tin cũ sai/thiếu (vd suy đoán nhầm vai vế) thì PHẢI sửa ngay, không giữ thông tin cũ sai.
+
+**CHỈ ghi quan hệ/xưng hô giữa nhân vật, TUYỆT ĐỐI KHÔNG tóm tắt diễn biến/cốt truyện** (lỗi thực tế mục 8.72-8.78: đã lỡ ghi cả "đột phá tu vi", "khởi binh đánh X", "tự sát", "âm mưu, kế hoạch", "nghi ngờ ai đó" - đều là diễn biến, không phải quan hệ, đã phải xóa sạch). Trước khi viết một dòng cho mục 8, tự hỏi: "dòng này có phải đang trả lời câu 'A xưng hô/quan hệ với B ra sao' không?" Nếu câu trả lời là mô tả HÀNH ĐỘNG hay SỰ KIỆN (X đột phá, X tấn công, X âm mưu, X tự sát, X đưa ra quyết định gì) thì KHÔNG được ghi, dù có vẻ "quan trọng" hay "đáng nhớ" đến đâu. Một chương thuần diễn biến/hành động không có nhân vật/quan hệ mới thì KHÔNG tạo mục 8.x cho chương đó luôn - bỏ qua hoàn toàn, không ghi cả dòng placeholder kiểu "(Không có thông tin quan hệ mới...)". Đây là kết quả BÌNH THƯỜNG và ĐÚNG của phần lớn các chương, không cần đánh dấu gì cả; số thứ tự mục 8.x chỉ tăng khi thực sự có nội dung quan hệ để ghi.
 
 ### 8.1 Gia tộc họ Lý (nhánh chính - gia đình Lý Mộc Điền)
 
@@ -626,9 +630,9 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Sa Ma Lý - Lý Uyên Giao: xưng hô "biểu huynh"/"Giao đệ" (anh em con cô con cậu qua Mộc Nha Lộc, xem [[8.62]]).
 - Tề Mộc: được nhắc là "đại ca" (ca ca) của Sa Ma Lý.
 
-### 8.67 Sứ giả Sơn Việt; "tộc tỷ" của Lý Uyên Tu làm Mẫu phi (ch.173)
+### 8.67 Sứ giả Sơn Việt; "cô cô" của Lý Uyên Tu làm Mẫu phi (ch.173)
 
-- Một nữ nhân tiểu tông họ Lý (không nêu tên) được gả cho Mộc Tiêu Man năm xưa, nay là "Mẫu phi"/"Vương thái phi" tại Đông Sơn Việt - Lý Uyên Tu và Lý Uyên Giao gọi bà là "tộc tỷ".
+- Một nữ nhân tiểu tông họ Lý (tên Lý Phi Nhược, xác nhận ở ch.184, xem [[8.77]]) được gả cho Mộc Tiêu Man năm xưa, nay là "Mẫu phi"/"Vương thái phi" tại Đông Sơn Việt. Bản gốc ch.173 gọi bà là "族姐" (dịch nhầm "tộc tỷ" lúc đầu), nhưng ch.184 xác nhận Lý Uyên Tu gọi thẳng bà là "姑姑" (cô cô) - bà là con gái Lý Diệp Sinh (thế hệ ngang Lý Thông Nhai, xem [[8.2]]), tức thuộc thế hệ "Huyền" (ngang Lý Huyền Tuyên/Lý Huyền Lĩnh/Lý Huyền Phong), cao hơn Lý Uyên Tu - Lý Uyên Giao một đời. Đã sửa lại toàn bộ "tộc tỷ" thành "cô cô" trong vi/0173.html và vi/0183.html.
 - Lý Uyên Tu - Trần Đông Hà: gọi nhau "thiếu gia chủ"/dượng (Trần Đông Hà là chồng Lý Cảnh Điềm, xem [[8.64]]).
 - Lư Uyển Dung (vợ Lý Huyền Lĩnh, xem [[8.39]]): gọi chồng "phu quân", chồng gọi nàng "nàng"; nàng tự xưng "thiếp" khi nói với chồng.
 
@@ -652,10 +656,79 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 ### 8.72 Từ Công Minh tòng quân (ch.178)
 
-- Từ thị: một trong các đại tộc tá điền ở trấn (bên cạnh Điền thị, Liễu thị, Trần thị), gia cảnh sa sút. Từ Tam (đã qua đời) sinh nhiều con trai, sau khi ông mất các con tách hộ riêng.
-- Từ lão gia: con trưởng Từ Tam, đứng đầu lo việc nhà. Từ Công Minh (tu vi Thai Tức tầng hai, linh khiếu tử duy nhất của nhánh) là cháu ruột gọi Từ lão gia là "đại bá", tự xưng "điệt nhi" (bác ruột, theo mục 6).
-- Từ Công Minh xin tòng quân, được Lý Uyên Tu phong bách phu trưởng - tu sĩ Thai Tức đầu tiên trong Từ thị gia nhập quân đội Lý gia.
+- Từ thị: một trong các đại tộc tá điền ở trấn (bên cạnh Điền thị, Liễu thị, Trần thị). Từ Tam (đã qua đời) là phụ thân của Từ lão gia và các anh em đã tách hộ riêng.
+- Từ lão gia là bác ruột ("đại bá") của Từ Công Minh; Từ Công Minh tự xưng "điệt nhi" với ông (bác ruột, theo mục 6).
 
+### 8.73 Lý gia xuất binh đánh Đông Sơn Việt (ch.181)
+
+- Lý Huyền Phong tự xưng "điệt nhi" với Lý Thông Nhai (nhị bác, xem [[8.1]]) - đúng bảng mục 6 (cháu ruột gọi bác).
+- Tề Mộc là anh ruột Sa Ma Lý (xem [[8.10]]).
+
+### 8.74 Lý Phi Nhược chiếm cung (ch.183)
+
+- Lý Phi Nhược: tên đầy đủ của vị tông nữ Lý gia gả cho Mộc Tiêu Man làm phi, nay là "Vương thái phi", con gái Lý Diệp Sinh, ca ca là Lý Tạ Văn (xem [[8.43]]) - là "cô cô" của Lý Uyên Tu - Lý Uyên Giao, không phải "tộc tỷ" (xem sửa ở [[8.67]]).
+
+### 8.75 Các thế gia trên hồ gặp Lý Thông Nhai tại Đông Sơn Việt (ch.189)
+
+- Uất Tiêu Quý (lão tổ Uất gia, xem [[8.32]]) xác nhận là phụ thân của cả Uất Mộ Cao (xem [[8.30]]) và Uất Mộ Kiếm - hai người là huynh đệ ruột.
+
+### 8.76 Tiêu Sơ Trù - Tiêu Nguyên Tư giúp Lý Thông Nhai ép lui Phệ La Nha (ch.190)
+
+- **ĐÍNH CHÍNH (phát hiện lại ở ch.196):** "萧初筹" (Tiêu Sơ Trù) và "萧初庭" (Tiêu Sơ Đình, xem [[8.7]]) là HAI nhân vật KHÁC NHAU, không phải cùng một người như đã nhận định sai ở lần ghi đầu (đã sửa lại toàn bộ "Tiêu Sơ Đình" thành "Tiêu Sơ Trù" trong vi/0190.html). Bằng chứng ch.196: cùng một câu văn nhắc tới cả hai tên với vai trò khác nhau - Tiêu Sơ Trù (người xuất hiện ch.190/196, từng ra ngoài tự tìm cơ duyên sau khi Tiêu gia suy sụp) đã đưa bảo dược và Toại Nguyên Đan cho Tiêu Sơ Đình (người ở nhà, chưa xuất hiện trực tiếp trong truyện) giữ.
+- Tiêu Sơ Trù là trưởng bối cao vai vế nhất Tiêu gia hiện xuất hiện trong truyện; Tiêu Nguyên Tư (sư huynh Lý Xích Kính, xem [[8.7]]) cung kính vâng lời ông, tự xưng "con".
+- Tiêu Sơ Trù: phụ thân từng đấu pháp với Trì Úy và bị Trì Úy dùng làm huyết tế (nguồn cơn mối hận với Trì Úy).
+
+### 8.77 Điền Trọng Thanh xuất hiện, thư báo tin An Cảnh Minh (ch.192)
+
+- Điền Trọng Thanh (tu sĩ Thai Tức tầng ba, ~17-18 tuổi): trưởng tôn của Điền lão gia (gia chủ đương nhiệm Điền gia), đứng đầu vãn bối Điền thị. Cha của Điền Trọng Thanh gọi Điền Vân (vợ Lý Hạng Bình, xem [[8.1]]) là cô ruột - tức Điền Vân là cô tổ (cô nội) của Điền Trọng Thanh.
+- Lý Huyền Tuyên tự xưng "điệt nhi" khi thưa chuyện với Lý Thông Nhai (trọng phụ, xem [[8.55]]) - nhất quán với quy tắc đã lập.
+
+### 8.78 Lý Uyên Tu bàn kế với Lý Thông Nhai; đoàn quân về tới Lê Kính (ch.193)
+
+- Lý Huyền Tuyên (chính thất) sắp sinh thêm một người con nữa cho Lý Uyên Tu - đệ muội đồng bào duy nhất của Uyên Tu (các anh em khác của cậu đều là con các thiếp, xem [[8.52]]).
+- Trong 3 anh em thế hệ "Huyền" (Huyền Tuyên, Huyền Lĩnh, Huyền Phong): Huyền Lĩnh chỉ có vợ Lư Uyển Dung (chung tình); Huyền Phong vẫn chưa tục huyền sau cái chết của Giang Ngư Nữ (xem [[8.49]]); chỉ Huyền Tuyên có nhiều con với nhiều thiếp.
+
+### 8.79 Uất gia họp bàn đối phó tin An Cảnh Minh (ch.195)
+
+- Uất Mộ Cao có ít nhất 2 em trai: Uất Mộ Kiếm (tứ đệ, xem [[8.32]], mê kiếm đạo, hay vắng nhà) và Uất Mộ Nguyên (ngũ đệ, phụ tá thân cận nhất, gọi Uất Mộ Cao là "huynh trưởng"). Cả ba đều là con Uất Tiêu Quý (xem [[8.75]]).
+
+### 8.80 Tiêu Sơ Trù bàn chuyện thông gia với Lý gia (ch.197)
+
+- Tiêu Như Liên: nữ nhân Tiêu gia 19 tuổi, thế hệ ngang "Như" (như Tiêu Như Dự, xem [[8.25]]), tức ngang vai vế với thế hệ "Huyền" bên Lý gia - không thể gả cho Lý Uyên Tu/Lý Uyên Giao (thế hệ "Uyên") vì lệch vai vế.
+- Tiêu Quy Loan: nữ nhân Tiêu gia còn nhỏ tuổi, thế hệ "Quy" (dưới "Như" một đời) - được Tiêu Sơ Trù nhắm để hứa gả cho Lý Thông Nhai sau khi ông đột phá Trúc Cơ.
+- Lý Thanh Hồng (con Lý Huyền Lĩnh) gọi Lý Huyền Tuyên là "đại bá"; Lý Huyền Tuyên nhìn Thanh Hồng mà nhớ tới Lý Cảnh Điềm (em họ cùng thế hệ) lúc trẻ.
+
+### 8.81 Lý Bình Dật hấp hối, Lý Tạ Văn xuất hiện (ch.201)
+
+- Lý Tạ Văn: phụ thân của Lý Bình Dật, quản sự Lý gia; xưng hô cha con dùng "phụ thân"/"con", Lý Bình Dật tự xưng "hài nhi" khi nói tới việc dâng bảo châu.
+- Lý Uyên Giao gọi Lý Tạ Văn là "Tạ Văn thúc".
+
+### 8.82 An Chá Vũ lên làm gia chủ bù nhìn An gia (ch.202)
+
+- An Chá Vũ: cùng thế hệ "Chá" với An Chá Ngôn (xem [[8.61]]), được Uất gia dựng lên làm gia chủ bù nhìn An gia sau khi An Chá Ngôn và An Cảnh Minh chết; từ nhỏ có hiềm khích với An Chá Ngôn (từng bị An Chá Ngôn bảo vệ một lão bộc mà An Chá Vũ muốn trả thù). **Đính chính (ch.209):** An Chá Vũ thực chất là đệ thứ xuất (em cùng cha khác mẹ) của An Chá Ngôn, không chỉ là anh em họ cùng thế hệ.
+
+### 8.83 Lý Uyên Bình chào đời (ch.203)
+
+- Chính thê Lý Huyền Tuyên (mẫu thân Lý Uyên Tu, xem [[8.78]]) sinh thêm một con trai sau khi Lý Uyên Tu mất, đặt tên Lý Uyên Bình - em cùng mẹ duy nhất của Lý Uyên Tu.
+
+### 8.84 Lý Thanh Hồng bái sư Phí Vọng Bạch (ch.205)
+
+- Phí Vọng Bạch: gia chủ Phí gia (bờ bắc hồ Vọng Nguyệt), giỏi thương pháp, kết bạn giả danh với Lý Thông Nhai (Lý Thông Nhai xưng "tản tu họ Vạn", gọi nhau "huynh"). Nhận Lý Thanh Hồng làm đệ tử, Thanh Hồng gọi ông "sư tôn".
+- Phí Đồng Khiếu: gặp và có cảm tình ngay từ lần đầu với Lý Thanh Hồng. **Đính chính (ch.211):** Phí Đồng Khiếu là cháu nội Phí Vọng Bạch (gọi ông "đại phụ"), con út của Phí Dật Hòa (trưởng tử Phí Vọng Bạch, tu vi Luyện Khí đỉnh phong) - không phải con trai trực tiếp của Phí Vọng Bạch như ghi trước đó.
+
+### 8.85 Sứ Sơn Việt xin đón con về; Lý Huyền Tuyên xử lý việc nhà (ch.208)
+
+- Sa Ma Lý (xem [[8.66]]) hiện có 4 con trai, 1 con gái, tất cả đều đang ở Đông Sơn Việt (nhà Lý gia) làm con tin; Sa Ma Lý muốn xin đón một con trai về nhưng Lý Huyền Tuyên chỉ đồng ý trả lại công chúa (con gái) để giữ các con trai làm con tin.
+
+### 8.86 An Chá Ngôn chạy tới quy phục Lý gia (ch.209)
+
+- An Cảnh Minh khi còn sống từng khuyên An Chá Ngôn nhường núi Hoa Trung, để An Cảnh Minh cưới một đích nữ Lý gia, hai nhà liên thủ chống Uất gia - An Chá Ngôn từ chối vì tham lam, dẫn tới thảm kịch sau này.
+- Lý Huyền Phong gọi Lý Huyền Tuyên "Tuyên ca", tự xưng "đệ"; Lý Huyền Tuyên gọi lại "Phong đệ", tự xưng "ta"/"huynh trưởng" - xác nhận xưng hô huynh đệ giữa hai người.
+### 8.87 Ba năm sau: Lý Huyền Lĩnh đột phá Luyện Khí, Lý Thanh Hiểu chào đời (ch.212)
+
+- Lý Huyền Lĩnh đã đột phá Luyện Khí (tầng 4 đích hệ), Lý Uyên Giao gọi ông là "tòng thúc", tự xưng "Uyên Giao"/"con".
+- Lý Thanh Hiểu: con gái Lý Cảnh Điềm và Trần Đông Hà (xem [[8.64]]), hơn 2 tuổi, gọi Lý Huyền Lĩnh là "cữu cữu".
+- Trần Đông Hà gọi Lý Huyền Lĩnh là "đệ" (do là em vợ - Lý Cảnh Điềm là chị Lý Huyền Lĩnh), Lý Huyền Lĩnh gọi Trần Đông Hà là "tỷ phu".
 ## 9. Ghi chú chung
 
 - Trình bày dấu câu: giữ nguyên dấu ngoặc câu thoại/tên sách theo chuẩn tiếng Việt: 「」《》 → "..." hoặc «...».
