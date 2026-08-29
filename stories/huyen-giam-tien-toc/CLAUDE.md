@@ -10,6 +10,8 @@ Tên người, họ gia tộc, địa danh, thế lực, pháp bảo, công phá
 - Địa danh/thế lực: 黎泾山 → núi Lê Kính; 青池宗 → Thanh Trì Tông; 望月湖 → hồ Vọng Nguyệt.
 - Cảnh giới/pháp bảo: 练气 → Luyện Khí; 筑基 → Trúc Cơ; 紫府 → Tử Phủ; 鉴身 → Giám Thân; 大雪绝锋 → Đại Tuyết Tuyệt Phong (danh khí có linh tính của Thanh Trì Tông, ch.73, chỉ nghe theo chủ nhân được nó công nhận).
 - Gương báu nhà họ Lý: 法鉴 → **Pháp Kính** (KHÔNG dùng "pháp giám" dù gốc là 鉴/giám - "giám" là Hán Việt cổ ít quen thuộc, "kính" tự nhiên hơn mà vẫn đúng nghĩa "gương"). Gọi tắt thân mật 鉴子 → "kính tử".
+- Tiên cơ/thế lực cổ nhắc ở ch.240: 玉庭将 → «Ngọc Đình Tướng» (tiên cơ của Uất Ngọc Phong, do 白玉庭 → Bạch Ngọc Đình dưới trướng Nguyệt Hoa Nguyên Phủ đúc nên; đạo 庭上红尘 → Đình Thượng Hồng Trần đã thất truyền). 身神通 → thân thần thông (song song 命神通 → mệnh thần thông, xem ch.238).
+- **Cổ danh các cảnh giới** (Tiêu Sơ Trù giảng ở ch.238, dùng khi bản gốc nhắc tên xưa): 养轮 → Dưỡng Luân (tức Thai Tức); 服气 → Phục Khí (tức Luyện Khí); 炼神 → Luyện Thần (tức Tử Phủ); 求性 → Cầu Tính (tức Kim Đan).
 - Công pháp/khái niệm: 太保应象法 → Thái Bảo Ứng Tượng Pháp; 伏质 → Phục Chất; 天元练气诀 → «Thiên Nguyên Luyện Khí Quyết» (công pháp nhị phẩm nhà họ Lý, ch.72); 灵中符法 → «Linh Trung Phù Pháp» (Lý Xích Kính để lại, ch.59, ch.72); 小清灵气 → Tiểu Thanh linh khí; 江河一气诀 → «Giang Hà Nhất Khí Quyết» (tam phẩm); 清灵元法 → «Thanh Linh Nguyên Pháp» (nhị phẩm, dùng Giang Trung Thanh Khí 江中清气); 遂元丹 → Toại Nguyên Đan (đan dược tăng tỉ lệ đột phá Trúc Cơ).
 - **Ch.76**: Lý Xích Kính (nay 14-15 tuổi, sư huynh Tiêu Nguyên Tư) xin được từ Thanh Trì Tông (qua trao đổi công pháp nhà họ Tiêu lấy Toại Nguyên Đan) hai môn công pháp Luyện Khí chính pháp mới cho gia tộc: «Giang Hà Nhất Khí Quyết» và «Thanh Linh Nguyên Pháp», thay thế tạm cho việc thiếu công pháp Luyện Khí tốt. Tiêu Nguyên Tư và Lý Xích Kính sắp được tông môn điều xuống phía nam trấn áp yêu vật, sẽ vắng nhà một thời gian dài chưa rõ.
 
@@ -38,6 +40,7 @@ Truyện có trật tự tôn ti rất nghiêm ngặt, xưng hô phải phản �
   - "cô": Lý Thanh Hồng. "nàng": Mộc Nha Lộc, Đậu thị.
   - "bà": Liễu Nhu Huyến - **đổi từ "nàng" sang "bà" kể từ ch.228**, vì bản gốc từ đây mô tả rõ là 老妪, tóc bạc phơ, gương mặt khô héo (đúng ngoại lệ "có mô tả rõ ràng về tuổi già" ở mục 7).
   - "cậu": Phí Đồng Khiếu.
+  - "lão": Linh Nham Tử (bản gốc tả rõ râu trắng phất phơ, sống hơn trăm tuổi, gọi là 老小儿/老家伙 - đã sửa lại một chỗ dùng "gã" ở vi/0230.html cho khớp).
   - "ông": Lý Thông Nhai (từ ~ch.161), Tiêu Ung Linh, Tiêu Sơ Đình, Phí Vọng Bạch, Hạ đạo nhân, Trì Úy (bản gốc tả rõ tóc bạc, 377 tuổi, được cả tông gọi "lão tổ" - dùng "ông" dù là phản diện).
 - Xưng hô trong gia tộc (Lý gia):
   - Gọi người trên: thúc phụ, thúc mẫu, phụ thân, mẫu thân, tổ phụ, đại ca, nhị ca...
@@ -673,6 +676,7 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 ### 8.74 Lý Phi Nhược chiếm cung (ch.183)
 
 - Lý Phi Nhược: tên đầy đủ của vị tông nữ Lý gia gả cho Mộc Tiêu Man làm phi, nay là "Vương thái phi", con gái Lý Diệp Sinh, ca ca là Lý Tạ Văn (xem [[8.43]]) - là "cô cô" của Lý Uyên Tu - Lý Uyên Giao, không phải "tộc tỷ" (xem sửa ở [[8.67]]).
+- **Bổ sung ch.239:** sau này bà tái giá, thành **thê tử của An Chá Ngôn** (xem [[8.91]]); từng chấp sự tại Lê Xuyên Khẩu. An Chá Ngôn gọi bà thẳng tên "Phi Nhược", Điền Hữu Đạo cũng gọi "Phi Nhược". Đại từ ngôi ba của bà: **"bà"** (nhất quán từ ch.191).
 
 ### 8.75 Các thế gia trên hồ gặp Lý Thông Nhai tại Đông Sơn Việt (ch.189)
 
@@ -751,11 +755,13 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Lý Thanh Hồng - Phí Đồng Khiếu: sư tỷ - sư đệ cùng học Phí Vọng Bạch. Đồng Khiếu gọi "Thanh Hồng tỷ", cô gọi lại "sư đệ"; cô gọi Phí Vọng Bạch là "sư tôn".
 - Phí Vọng Bạch và Lý Thông Nhai gọi nhau "Vọng Bạch huynh" / "Thông Nhai huynh" (nối tiếp [[8.84]]). Phụ thân Phí Vọng Bạch từng chấp chưởng Phí gia, đã qua đời; Lý Thông Nhai gọi là "lệnh tôn".
 
-### 8.90 Nhà họ Tiêu (ch.217, 220-222, 228)
+### 8.90 Nhà họ Tiêu (ch.217, 220-222, 228-229)
 
 - Tiêu Hàm Ưu (萧衔忧, bản danh Tiêu Cẩm Châu 萧锦州): trọng phụ của Tiêu Sơ Đình; Tiêu Sơ Đình tự xưng "điệt nhi" với ông. Cùng mạch với Tiêu Nguyên Tư và Tiêu Sơ Trù (xem [[8.76]]); đã qua đời.
 - Tiêu Sơ Đình và Tiêu Sơ Trù ngang vai vế, gọi thẳng tên nhau - củng cố đính chính [[8.76]]. Tiêu Ung Linh gọi Tiêu Sơ Đình là "lão tổ".
 - Tiêu Ung Linh gọi Lý Thông Nhai là "Thông Nhai huynh", gọi Trần Đông Hà là "Đông Hà tiểu hữu"; Trần Đông Hà gọi ông là "tiền bối".
+- Tiêu Ung Linh và Lý Thông Nhai gọi nhau "Ung Linh huynh" / "Thông Nhai huynh". Tiêu Ung Linh gọi Tiêu Nguyên Tư là "tộc thúc" (xem [[8.7]]).
+- Tiêu Cửu Khánh (萧久庆): xuất thân chi mạch Tiêu gia, thân cận nhất với mạch Tiêu Ung Linh và từng theo hầu ông; gọi Tiêu Ung Linh là "Ung Linh huynh"/"huynh trưởng", gọi Lý Thông Nhai là "Thông Nhai tiền bối". Hắn tự xưng "tiểu đệ" với Tiêu Ung Linh.
 - Tiêu Nguyên Tư đổi cách gọi Lý Thông Nhai thành "đạo hữu" (hai bên đã ngang cảnh giới), nhưng Lý Thông Nhai vẫn giữ "tiền bối" và tự xưng "vãn bối" (xem [[8.54]], [[8.7]]).
 - Tiêu Quy Loan: nữ nhi thứ xuất của đích mạch Tiêu gia, hứa gả cho **Lý Uyên Giao**. **Đính chính [[8.80]]:** ch.197 từng ghi nhắm gả cô cho Lý Thông Nhai.
 - Tiêu Quy Đồ (萧归图): ca ca của Tiêu Quy Loan, cùng hàng chữ "Quy". Gọi Lý Thông Nhai là "Thông Nhai tiền bối", tự xưng "tại hạ" và gọi muội muội của mình là "xá muội".
@@ -764,6 +770,9 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 - **Đính chính [[8.75]]:** người được gọi "lão tổ" Uất gia là **Uất Ngọc Phong** (biệt hiệu "Bạch Ngọc Thủ"), không phải Uất Tiêu Quý. Uất Tiêu Quý là phụ thân của Uất Mộ Cao - Uất Mộ Kiếm - Uất Mộ Nguyên (xem [[8.75]], [[8.79]]).
 - Uất Mộ Tiên: người Uất gia, đệ tử Nguyên Ô phong thuộc Thanh Trì Tông.
+- **Uất Ngọc Phong: đã chết ở ch.240** (nhóm Tiêu Sơ Trù giết), từ đây Uất gia không còn ai được gọi bằng "lão tổ" theo nghĩa này.
+- Tộc nhân Uất gia gọi Uất Mộ Cao thân mật là "Mộ Cao ca" hoặc gọi thẳng "Mộ Cao"; Uất Mộ Nguyên (đệ đệ, xem [[8.75]]) được hắn gọi là "Mộ Nguyên".
+- **Bổ sung ch.237:** Uất Ngọc Phong là **tổ phụ** của Uất Mộ Cao (tức phụ thân của Uất Tiêu Quý). Uất Mộ Cao gọi ông là "lão tổ" khi có mặt tộc nhân, gọi "tổ phụ" trong độc thoại; cả đám thúc điệt huynh đệ Uất gia đều gọi "lão tổ". Đại từ ngôi ba của Uất Ngọc Phong: **"lão"** (bản gốc tả tóc trắng xõa tung, người khô quắt, cùng thời với Tiêu Sơ Đình); của Uất Mộ Cao: "hắn" (nhất quán từ ch.193-195).
 - Tiên tổ của An gia vốn mang họ Tưởng (蒋家), là ngoại môn đệ tử tiên phủ (xem [[8.61]], [[8.82]]).
 - An Chá Ngôn gọi Lý Thông Nhai là "tiền bối", tự xưng "thuộc hạ"; Lý Thông Nhai gọi lại là "Chá Ngôn huynh". Tộc binh Lý gia gọi An Chá Ngôn là "tiền bối".
 - Điền Trọng Thanh (xem [[8.77]]): tộc binh gọi là "Điền bách hộ" hoặc thân mật "Trọng Thanh ca"; hắn gọi Lý Huyền Lĩnh là "Huyền Lĩnh tộc thúc".
@@ -791,6 +800,34 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Lý Uyên Giao - Lý Thanh Hồng (đường huynh muội, xem [[8.71]]): cô gọi hắn là "ca"/"huynh trưởng" và tự xưng "muội"; hắn gọi cô là "muội" hoặc gọi thẳng "Lý Thanh Hồng". Cô gọi Tiêu Quy Loan là "tẩu tử tương lai" (xem [[8.90]]), và gọi Lý Huyền Phong là "tòng thúc".
 - Mạch Lý Huyền Lĩnh đã có Lý Uyên Vân thừa tự, nên Lý Thanh Hồng không phải gánh việc nối dõi (xem [[8.64]]).
 
+### 8.94 Các chân nhân Tử Phủ dự pháp hội; Từ gia - Điền gia (ch.230)
+
+- **Thượng Nguyên chân nhân** (上元真人) của Tu Việt Tông: các chân nhân Tử Phủ khác, kể cả Tiêu Sơ Đình, đều tỏ thái độ cung kính với ông; Tiêu Sơ Đình gọi ông là "tiền bối".
+- **Trường Hề chân nhân** (长奚真人) của Huyền Nhạc Môn: gọi Thượng Nguyên chân nhân là "tiền bối", gọi Tiêu Sơ Đình là "đạo hữu". **Bộ Tử chân nhân** (步梓真人) đại diện Thanh Trì Tông (xem [[8.92]]).
+- **Linh Nham Tử** (xem [[8.47]]) nay là tu sĩ Trúc Cơ, ngồi dưới trướng chân nhân Tử Yên Môn. Lão còn nợ Lý Thông Nhai khoản linh thạch đổi từ hai chiếc túi trữ vật năm xưa, hơn mười năm chưa trả. Lão gọi Lý Thông Nhai là "Vạn huynh" (theo danh giả "Vạn mỗ"), Lý Thông Nhai gọi lại là "tiền bối".
+- **Lân Cốc Liệp** (邻谷猎): thế gia họ Lân Cốc ở quận Gia Xuyên dưới quyền Thanh Trì Tông, hậu duệ Sơn Việt - tiên tổ vốn là đại tu sĩ một tộc Sơn Việt, sau đầu nhập Thanh Trì Tông. Hắn cùng thúc phụ được tộc cử đi thu thập trùng rắn khắp nơi. Gọi Lý Thông Nhai là "tiền bối", tự xưng "tiểu nhân"/"vãn bối".
+- **Từ Công Minh - Điền Trọng Thanh**: bạn chơi từ thuở nhỏ ở trấn Lê Kính, nhà tổ hai nhà ở gần nhau (xem [[8.72]], [[8.77]]); gọi nhau "Công Minh huynh" / "Trọng Thanh huynh" hoặc "huynh đệ". Từ lão gia tử (bá phụ của Từ Công Minh) đã qua đời, Từ gia nay chỉ còn mỗi Từ Công Minh là tu sĩ.
+- Điền Trọng Thanh có một tộc thúc hơn năm mươi tuổi, được tìm ra khi Lý gia kiểm tra lại căn cốt trong đám nông hộ lớn tuổi.
+
+### 8.95 Điền gia: Điền Hữu Đạo và nhánh Điền Trọng Thanh (ch.234-235)
+
+- **Điền Hữu Đạo** (田有道): đệ đệ ruột của Điền Vân (xem [[8.1]], [[8.3]]), tức cữu ruột của Lý Huyền Phong và Lý Cảnh Điềm; vai vế lớn nhất Điền gia hiện nay. Đại từ ngôi ba: **"ông"** (bản gốc tả ngoài năm mươi tuổi, tóc hoa râm, mặt nhiều nếp nhăn).
+- Điền Trọng Thanh (xem [[8.91]]) gọi Điền Hữu Đạo là "bá phụ", tự xưng "tiểu điệt" (trong thư) hoặc gọi thẳng tên mình "Trọng Thanh" khi thưa chuyện; Điền Hữu Đạo gọi lại là "ngươi". Đại từ ngôi ba của Điền Trọng Thanh: **"gã"** (nhất quán từ ch.230).
+- Điền Trọng Thanh có một đường đệ trẻ tuổi chưa rõ tên, tu tại núi Hoa Thiên: gọi Trọng Thanh là "Trọng Thanh ca", được Trọng Thanh gọi lại là "đường đệ"/"hiền đệ"; cũng gọi Điền Hữu Đạo là "bá phụ". Đại từ ngôi ba: "hắn".
+- Người ngoài tộc nhắc tới Lý Hạng Bình (đã mất, xem [[8.15]]) bằng lối tôn xưng **"Hạng Bình công"** (项平公).
+- **Điền Vinh** (田荣, gọi thân mật "Vinh nhi"): trưởng tử và cũng là người nối dõi duy nhất của Điền Hữu Đạo, không có linh khiếu. Đại từ ngôi ba: "gã".
+- **Xưng hô ch.239:** Điền Hữu Đạo gọi An Chá Ngôn (xem [[8.91]]) là "tiền bối" và cung kính với ông ta; An Chá Ngôn gọi lại là "Hữu Đạo huynh"/"Điền huynh", đại từ ngôi ba của An Chá Ngôn là "hắn" (nhất quán từ ch.200). Trần Đông Hà (chồng Lý Cảnh Điềm, xem [[8.96]]) gọi Điền Hữu Đạo là "cữu phụ", tự xưng thẳng tên "Đông Hà". Điền Hữu Đạo tự xưng "lão phu" với hậu bối.
+
+### 8.96 Khách khanh Tiêu gia; nhánh Lý Cảnh Điềm và các xưng hô quanh Lý Uyên Giao (ch.236)
+
+- **Trần Đào Kinh** (陈涛惊): đao khách Trúc Cơ trung kỳ, trước là khách khanh phường thị hồ Vọng Nguyệt, sau về làm khách khanh Tiêu gia; cùng tu «Giang Hà Nhất Khí Quyết» thành 'Hạo Hãn Hải' như Lý Thông Nhai. Tự xưng "Trần mỗ"/"tại hạ", gọi Lý Thông Nhai là "Thông Nhai đạo hữu"; Lý Thông Nhai gọi lại là "tiền bối". Đại từ ngôi ba: "hắn".
+- **Nam Sơn Ông** (南山翁): khách khanh đỉnh phong Trúc Cơ, người cũ của Tiêu gia; tự xưng "tại hạ", gọi Lý Thông Nhai là "đạo hữu". Đại từ ngôi ba: **"lão"** (bản gốc tả râu trắng phất phơ, tóc hạc da hồng).
+- Tiêu Nguyên Tư gọi Tiêu Sơ Đình là "lão tổ" và tự xưng thẳng tên "Nguyên Tư" (xem [[8.90]]). Đại từ ngôi ba của Tiêu Quy Loan: **"nàng"**.
+- **Lý Cảnh Điềm** (xem [[8.10]]): đại từ ngôi ba **"bà"** (nhất quán từ ch.208). Phu quân là Trần Đông Hà (xem [[8.10]]); con gái là **Lý Thanh Hiểu** (李清晓, hàng chữ "Thanh"), đại từ ngôi ba "cô bé". Bà gọi Điền Hữu Đạo (xem [[8.95]]) là "cữu phụ".
+- Điền Trọng Thanh - Lý Cảnh Điềm là biểu đệ - biểu tỷ (qua Điền Vân, xem [[8.1]], [[8.3]]): hắn gọi bà là "trưởng tỷ", tự xưng "Trọng Thanh" hoặc "tiểu đệ"; bà gọi lại là "ngươi".
+- Lý Uyên Giao gọi Lý Cảnh Điềm là **"cô cô"**, gọi Trần Đông Hà là **"cô trượng"**, gọi Lý Thông Nhai là **"thúc công"** (xem [[8.93]]).
+- Họ **Hứa** ở Lê Đạo Khẩu: một họ vọng tộc phụ thuộc Lý gia, sau dời sang trấn Lê Kính, tử đệ trông coi việc giao thiệp với Sơn Việt (xem [[8.5]], [[8.91]]).
+
 ## 9. Ghi chú chung
 
 - Trình bày dấu câu: giữ nguyên dấu ngoặc câu thoại/tên sách theo chuẩn tiếng Việt: 「」《》 → "..." hoặc «...».
@@ -798,4 +835,32 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Khi bỏ một chú thích ngoặc đơn (theo quy tắc trên) mà thuật ngữ đứng một mình trở nên tối nghĩa/dễ hiểu lầm (ví dụ trùng âm với số đếm, họ tên nhân vật, hoặc bị cụt nghĩa như "Lục" đứng riêng thay vì "Lục khí"), KHÔNG thêm lại ngoặc giải thích. Thay vào đó ưu tiên dùng dạng đầy đủ đã xuất hiện nhất quán trong cùng chương/các chương khác (vd. "Lục khí" thay vì "Lục" trơ trọi) để câu tự nó rõ nghĩa mà không cần chú thích.
 - Cấm dùng dấu gạch ngang dài "—": thay bằng dấu phẩy ",", dấu chấm ".", dấu hai chấm ":" hoặc ngắt lại câu cho tự nhiên.
 - Chính tả nhân vật khi bản gốc không nhất quán: 迟炙云 và 迟灸云 là cùng một người, bản dịch thống nhất là "Trì Cứu Vân" (xem [[8.13]]).
+- 吴柞虫: bản dịch cũ dùng lẫn "trùng Ngô Tác" (ch.51-52) và "Ngô Tạc trùng" (ch.72). Từ ch.232 thống nhất dùng **"Ngô Tạc trùng"** (giữ trật tự Hán Việt như "trư yêu", "xà yêu").
 - Danh giả của Lý Thanh Hồng ở Phí gia: ch.205 Lý Thông Nhai tự xưng "tản tu họ Vạn", nhưng ch.217 đệ tử Phí gia lại gọi cô là "Diệp Thanh Hồng" trong khi Phí Đồng Ngọc gọi thẳng "Lý Thanh Hồng". Dịch đúng theo từng chỗ bản gốc, KHÔNG tự thống nhất lại.
+
+### 8.97 Xưng hô quanh Lý Huyền Phong và An Chá Ngôn khi đánh An gia (ch.242)
+
+- Trần Đông Hà gọi Lý Huyền Phong thẳng tên "Huyền Phong"; An Chá Ngôn gọi Lý Huyền Phong là "đại nhân". Lý Huyền Phong gọi An Chá Ngôn là "Chá Ngôn huynh".
+- Lý Huyền Tuyên là trưởng huynh trong lứa "Huyền", gọi Lý Huyền Lĩnh là "Lĩnh đệ" (xem [[8.1]], [[8.10]]).
+- Bộc nhân của An Chá Ngôn gọi hắn là "lão gia" và gọi Lý gia là "chủ gia".
+- Củng cố [[8.74]]: Lý gia là bên đứng ra gả Lý Phi Nhược cho An Chá Ngôn.
+
+### 8.98 Ô Thiếu Vân xuất hiện tại Uất gia (ch.245)
+
+- Ô Thiếu Vân: tu sĩ Trúc Cơ, con nhà Ô gia ở phía nam quận Lê Hạ, mặt trắng râu dài (thực ra trẻ, thuộc dạng phong lưu công tử), tay cầm quạt. Tự xưng "tại hạ"/"Ô mỗ"; gọi Uất Tiêu Quý là "Uất huynh". Đại từ ngôi ba: "hắn" (nam trẻ, không có mô tả tuổi già). Nhà Ô gia điều tra một việc liên quan tới Lý gia (Lê Kính) suốt mười năm, muốn theo Uất Tiêu Quý tới đó hỏi chuyện.
+
+### 8.99 Lý Uyên Giao - Lý Thanh Hồng đánh chiếm núi Hoa Trung; Từ Công Minh theo hầu (ch.246)
+
+- Lý Thanh Hồng gọi Lý Huyền Phong là "Huyền Phong tòng bá" (khác với Lý Uyên Tu gọi ông là "tòng thúc" ở [[8.70]]) - CHÚ Ý: bá/thúc khi ghép với "tòng" (đường bác/đường chú) phụ thuộc người nói cụ thể, không suy diễn máy móc từ một trường hợp đã có, phải tra đúng theo bản gốc từng chương.
+- Từ Công Minh (xem [[8.72]]) làm thuộc hạ theo hầu Lý Uyên Giao, được gọi là "thiếu gia"; gọi lại Lý Thanh Hồng là "tiểu thư". Đại từ ngôi ba: "hắn".
+
+### 8.100 Hợp Càn xuất hiện - đồng minh bí ẩn của Phí Vọng Bạch (ch.249)
+
+- Hợp Càn: tu sĩ Trúc Cơ sơ kỳ, người trung niên khoác giáp ngọc, bạn cũ nhiều năm giúp Phí Vọng Bạch quấy phá nhà họ Uất ở bờ đông, sống ẩn dật gần Mật Lâm Quận (đất nhà họ Uất). Gọi Phí Vọng Bạch là "Vọng Bạch huynh/huynh", tự xưng "tại hạ"; Phí Vọng Bạch gọi thẳng tên "Hợp Càn". Đại từ ngôi ba: "hắn" (trung niên, chưa mô tả già). Cuối chương tự xưng "Tưởng mỗ" khi để lộ căm hận nhà họ Uất - có vẻ liên quan tới họ Tưởng (蒋家), dòng tộc tổ tiên của An gia (xem [[8.91]]). Cần theo dõi tiếp danh tính đầy đủ ở các chương sau.
+
+### 8.101 Xác nhận Tưởng Hợp Càn; Uất Tiêu Âu và bí mật huyết thống nhà họ Tưởng (ch.250)
+
+- Xác nhận đầy đủ danh tính: **Tưởng Hợp Càn** (họ Tưởng, xem [[8.100]]). Tu thành tiên cơ «Ngọc Đình Tướng» (xem mục 1) từ «Bạch Thủ Khấu Đình Kinh» - công pháp gia truyền của tổ tiên An gia/nhà họ Tưởng (xem [[8.61]], [[8.82]], [[8.91]]), do đại phụ (tự xưng của hắn) đích thân truyền lại.
+- Uất Tiêu Âu: trưởng huynh thế hệ "Tiêu" nhà họ Uất (huynh của Uất Tiêu Quý - xem [[8.30]], [[8.75]] - cả hai đều là con Uất Ngọc Phong), Luyện Khí đỉnh phong, hơn 120 tuổi, trấn giữ phường chợ Mật Lâm Quận, không còn ý định đột phá Trúc Cơ. Được gọi/tự xưng đơn giản; đại từ ngôi ba: **"lão"** (bản gốc tả rõ tóc/râu hoa râm, hơn 120 tuổi, tương tự quy ước dành cho Uất Ngọc Phong). Nội bộ Uất gia gọi đùa Uất Tiêu Quý là "lão ngũ" (thứ năm trong nhà).
+- **Tiết lộ lớn**: nhà họ Uất VÀ An gia vốn đều là hậu duệ ngoại tộc/nô bộc của nhà họ Tưởng (dòng dõi tiên tướng lập ra vùng đất), sau này nhà họ Tưởng suy tàn, hai nhà Uất - An dần dà thôn tính hết nhà họ Tưởng, cả hai đều mang huyết thống Tưởng gia qua nhiều đời hôn phối. Uất Tiêu Âu có mẫu thân, tổ mẫu, và chính thê đều là người nhà họ Tưởng; cuối cùng bị Tưởng Hợp Càn (cũng dòng máu Tưởng gia) giết chết để trả thù - xem đây là mạch truyện nền tảng lý giải hận thù xuyên suốt giữa các gia tộc bờ đông với nhà họ Uất.
+- Vong thê của Uất Tiêu Âu: **Tưởng Hợp Thanh** (gọi thân mật "Thanh nhi"/"Thanh"), cưới Uất Tiêu Âu năm lão 15 tuổi, đã qua đời từ lâu trước thời điểm truyện. Quan hệ huyết thống giữa Hợp Thanh và Tưởng Hợp Càn chưa được xác định rõ (tự thân Hợp Càn cũng không chắc - có thể là tỷ phu/thê đệ, hoặc biểu cữu/biểu điệt).
