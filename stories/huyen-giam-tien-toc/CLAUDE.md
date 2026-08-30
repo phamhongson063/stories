@@ -367,10 +367,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Nhà họ Vạn: gia chủ Vạn Tiêu Hoa (万萧华); con Vạn Nguyên Khải (万元凯).
 - Ninh Uyển (宁婉): đồng môn Thanh Trì Tông với Lý Xích Kính (khác phong, không phải sư huynh/đệ cùng thầy).
 
-### 8.8 Tam Tông của Việt quốc & bí mật "Tiên Kính" (tiết lộ ch.85)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
 ### 8.9 Diễn biến nhà họ Lý ch.83-85 (sau khi Lý Mộc Điền qua đời)
 
 - Lý Huyền Tuyên: chính thức trở thành tộc chính (đứng đầu tộc) sau khi Lý Mộc Điền qua đời.
@@ -386,10 +382,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 ### 8.11 Sơn Việt đánh chiếm trấn Lê Kính, Lý Cảnh Điềm - Lý Huyền Lĩnh trốn chạy (ch.91-93)
 
 - Mộc Tiêu Man (木焦蛮): đại soái thân cận Già Nê Hề (xem [[8.25]] - sau xác nhận là anh ruột Mộc Nha Lộc).
-
-### 8.12 Hệ thống màu Lục khí & bí ẩn "Hoàng Lục" ở Đại Quyết Đình (tiết lộ ch.95-96)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.13 Lý Xích Kính bị dâng làm "nhân đan" & bí mật lớn về vị "lão tổ" đang chết (ch.97-98)
 
@@ -417,10 +409,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 - Giang Ngư Nữ: thiếu nữ Huyền Phong gặp tại quán trọ, nảy sinh tình cảm (về sau là vợ, xem [[8.47]]-[[8.48]]). Lưu ý an toàn nội dung liên quan nhân vật này: xem mục 2.
 
-### 8.19 Lý Xích Kính đột phá Trúc Cơ & thách đấu Trì Cứu Vân ở thành Ỷ Sơn (ch.120)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
 ### 8.20 Phù chủng Lý Xích Kính quay về & tiết lộ vai trò Trì Úy trong cuộc vây sát Lý Giang Quần (ch.121-123)
 
 - Lục Giang Tiên: từng là sư phụ của Lý Giang Quần (nguyên là "Phủ chủ" Nguyệt Hoa Nguyên Phủ).
@@ -432,10 +420,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 ### 8.22 Lưu Trường Điệt - trận pháp sư có "kiếp trước" (ch.125)
 
 - Lưu Trường Điệt (刘长迭): trận pháp sư, gọi Tiêu Ung Linh "Vũ Sơn Ông"; gọi Lý Huyền Phong "Kim Canh Cương Huyền".
-
-### 8.23 Tiết lộ lớn: "Đại Diễn Thiên Huyền Lục" - một loại Lục khác nằm ngoài Pháp Kính (ch.126)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.24 Lý Uyên Giao chào đời - khớp mảnh ký ức "kiếp trước" của Lưu Trường Điệt (ch.127)
 
@@ -457,10 +441,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Lý Huyền Tuyên có một "Đại phu nhân" (chính thê, đứng đầu các phòng thiếp, chưa lộ diện/chưa rõ tên).
 - Huyền Phong - Cảnh Điềm: huynh muội thân thiết.
 
-### 8.28 Lý Thông Nhai hay tin Lý Xích Kính bị dâng làm nhân đan (ch.131)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
 ### 8.29 Lý Thông Nhai lập "Nội sử" giấu bí mật gia tộc & Uất gia ra mặt uy hiếp Lư Tứ Tự (ch.132)
 
 - Lư Viễn Lục (cháu Lư Tứ Tự, xem [[8.14]] - đã tra lại bản gốc: ch.111 gọi Viễn Lục là "huynh" của Viễn Bình (cùng hàng "Viễn", khác chữ lót với Tứ Tự), ch.132 chỉ gọi phiếm "tu sĩ nhà mình" chứ không dùng từ chỉ con ruột - xác nhận quan hệ chú - cháu, không phải cha - con): sa đọa rượu chè.
@@ -468,10 +448,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 ### 8.30 Uất gia (Mật Lâm Uất gia) chính thức tiếp xúc nhà họ Lý (ch.133)
 
 - Uất Mộ Cao (郁慕高): con trai gia chủ Uất gia.
-
-### 8.31 Uất gia âm mưu ám sát nhà họ Lý & «Huyền Thủy Kiếm Quyết» (ch.134)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.32 Uất gia lập Mật Lâm Quận & Lý Thông Nhai đấu Uất Mộ Kiếm (ch.135-137)
 
@@ -486,18 +462,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 (Không có thông tin quan hệ mới trong chương này; "Giang Nhạn" được nhắc tới như một bí ẩn, sau xác nhận ở [[8.49]].)
 
-### 8.35 Phí Vọng Bạch ngỏ ý liên minh & âm mưu ám sát nhà họ Lý của Uất gia (ch.138)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
-### 8.36 Lý Thông Nhai xuất quan Luyện Khí tầng sáu & Lý Huyền Tuyên lo lắng về Lý Uyên Giao (ch.141)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
-### 8.37 Đại lễ tế tự bốn trấn & Lý Huyền Phong nhận Lục khí (ch.142)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
 ### 8.38 Lý Huyền Phong đột phá Luyện Khí & Lư Tứ Tự qua đời (ch.143)
 
 - Lư Tứ Tự: đã qua đời. Con là Lư Viễn Lục (xem [[8.29]]).
@@ -506,18 +470,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 ### 8.39 Lý gia thôn tính Lư gia, giết Lư Viễn Lục (ch.144)
 
 - Lư Viễn Lục: đã bị giết (chém đầu).
-
-### 8.40 Lý gia hoàn tất thôn tính Lư gia bằng thủ đoạn tàn nhẫn (ch.145)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
-### 8.41 Lần đầu gặp An Cảnh Minh & tranh chấp núi Thiều Vân (ch.146)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
-### 8.42 Đinh Tây Định & kế sách "tọa sơn quan hổ đấu" của Lý Thông Nhai (ch.147)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.43 Sự thịnh vượng của Lý gia sau khi thôn tính Lư gia & lão nhân Trần gia qua đời (ch.148)
 
@@ -528,14 +480,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 - Trần Đông Hà: con ruột Trần Nhị Ngưu, nhưng "ở rể" vào Lý gia nên bị cha ruột công khai từ mặt (chỉ là màn kịch che giấu, dù nay không còn cần thiết). Được cả Trần Nhị Ngưu và Lý Hạng Bình nuôi dạy thời nhỏ (có ý với Lý Cảnh Điềm, xem [[8.10]]/[[8.27]]).
 - Lý Căn Thủy (cha Lý Mộc Điền, xem [[8.1]]): từng cứu mạng Trần Nhị Ngưu - nền móng quan hệ hai nhà Lý - Trần.
-
-### 8.45 Kim Canh - cây cung mới của Lý Huyền Phong & Trần Đông Hà xin công pháp (ch.150)
-
-(Không có thông tin quan hệ mới trong chương này.)
-
-### 8.46 Linh Nham Tử - Lý Thông Nhai lần đầu đối đầu trực diện với Tam Tông Thất Môn (ch.151-152)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.47 Linh Nham Tử trả ơn & Giang Ngư Nữ nuôi con một mình 5 năm (ch.153)
 
@@ -550,10 +494,6 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 
 - Lý Uyên Ngư (con Huyền Phong - Giang Ngư Nữ, xem [[8.47]]) bị Giang Bá Thanh bắt cóc, đổi tên "Giang Nhạn" (theo họ Giang Bá Thanh), nhận làm đệ tử.
 - Giang Ngư Nữ: đã qua đời (bị thảm sát).
-
-### 8.50 Lý Huyền Phong giết Tư Đồ Hữu bằng tiễn ý & Ninh Uyển xuất hiện (ch.156)
-
-(Không có thông tin quan hệ mới trong chương này.)
 
 ### 8.51 An táng Giang Ngư Nữ và con trai; các thế hệ sau của Lý gia (ch.157)
 
@@ -864,3 +804,46 @@ Truyện càng về sau càng nhiều nhân vật, gia tộc xuất hiện, khô
 - Uất Tiêu Âu: trưởng huynh thế hệ "Tiêu" nhà họ Uất (huynh của Uất Tiêu Quý - xem [[8.30]], [[8.75]] - cả hai đều là con Uất Ngọc Phong), Luyện Khí đỉnh phong, hơn 120 tuổi, trấn giữ phường chợ Mật Lâm Quận, không còn ý định đột phá Trúc Cơ. Được gọi/tự xưng đơn giản; đại từ ngôi ba: **"lão"** (bản gốc tả rõ tóc/râu hoa râm, hơn 120 tuổi, tương tự quy ước dành cho Uất Ngọc Phong). Nội bộ Uất gia gọi đùa Uất Tiêu Quý là "lão ngũ" (thứ năm trong nhà).
 - **Tiết lộ lớn**: nhà họ Uất VÀ An gia vốn đều là hậu duệ ngoại tộc/nô bộc của nhà họ Tưởng (dòng dõi tiên tướng lập ra vùng đất), sau này nhà họ Tưởng suy tàn, hai nhà Uất - An dần dà thôn tính hết nhà họ Tưởng, cả hai đều mang huyết thống Tưởng gia qua nhiều đời hôn phối. Uất Tiêu Âu có mẫu thân, tổ mẫu, và chính thê đều là người nhà họ Tưởng; cuối cùng bị Tưởng Hợp Càn (cũng dòng máu Tưởng gia) giết chết để trả thù - xem đây là mạch truyện nền tảng lý giải hận thù xuyên suốt giữa các gia tộc bờ đông với nhà họ Uất.
 - Vong thê của Uất Tiêu Âu: **Tưởng Hợp Thanh** (gọi thân mật "Thanh nhi"/"Thanh"), cưới Uất Tiêu Âu năm lão 15 tuổi, đã qua đời từ lâu trước thời điểm truyện. Quan hệ huyết thống giữa Hợp Thanh và Tưởng Hợp Càn chưa được xác định rõ (tự thân Hợp Càn cũng không chắc - có thể là tỷ phu/thê đệ, hoặc biểu cữu/biểu điệt).
+- **Uất Tiêu Âu: đã qua đời (ch.253)**, bị Phí Vọng Bạch giết khi phá phường chợ Mật Lâm Quận nhà họ Uất.
+
+### 8.102 Nhà họ Đinh là phụ dung nhà họ Viên; Viên Hộ Viễn tặng kiếm cho Lý gia (ch.253-254)
+
+- **Nhà họ Đinh (Đinh Tây Định, xem [[8.42]]) là phụ dung (thuộc hạ) của nhà họ Viên** (Viên Hộ Viễn, Tuyền Lâm Nguyên, xem [[8.7]]) - quan hệ mới xác nhận, không phải thế lực độc lập.
+- Đinh Tây Định có một trưởng tử (chưa rõ tên) từng bế quan nhiều năm mưu đột phá Trúc Cơ, đã chết trong lúc bế quan (chỉ còn hài cốt khô); Đinh Tây Định đã âm thầm an táng.
+- Viên Hộ Viễn tặng thanh kiếm «Giao Bàn Doanh» (xem mục 1) cho Lý Huyền Tuyên thay mặt nhà họ Viên, chủ yếu vì nể mặt Lý Xích Kính (Quý phụ) chứ không phải nể Lý Thông Nhai hay Lý Huyền Tuyên.
+
+### 8.103 Ngọc Đình Vệ; Điền Trọng Thanh (田仲青) thứ hai tại Đông Sơn Việt (ch.255)
+
+- Lý Huyền Tuyên đặt tên đội chấp pháp mới của Tộc Chính viện là **"Ngọc Đình Vệ"** (ghép tiên cơ "Ngọc Đình Tướng" của «Bạch Thủ Khấu Đình Kinh» và "Đình Trung Vệ" của «Khấu Đình Túc Vệ Quyết», xem mục 1). Đội gồm sáu linh khiếu tử trung thành do Lý Thông Nhai duyệt chọn, tu luyện nhờ giếng ngọc trên núi Ngọc Đình (xem vi/0254.html).
+- **CẢNH BÁO trùng tên:** 田仲青 (phiên âm "Điền Trọng Thanh") là một người MỚI, KHÁC HOÀN TOÀN với Điền Trọng Thanh 田重清 đã có ở [[8.94]], [[8.95]] (trưởng tôn Điền lão gia, gọi Điền Hữu Đạo "bá phụ"). Hai người trùng đúng cách phiên âm Hán Việt dù khác chữ Hán gốc. 田仲青 này phục vụ dưới trướng Sa Ma Lý tại Đông Sơn Việt, tự nhận vì phạm lỗi mà "khiến cả tộc bị đày sang phía tây" - có vẻ là một nhánh Điền thị khác bị lưu đày, không phải nhánh chính ở Lê Kính. Khi dịch các chương sau có "田仲青"/"田重清", PHẢI đối chiếu bối cảnh (Đông Sơn Việt/Sa Ma Lý vs Lê Kính/Điền lão gia) để xác định đúng người, không suy diễn theo tên.
+- Sa Ma Lý (xem [[8.66]], [[8.73]]): đại từ ngôi ba "hắn"/"gã" (nhất quán, tự ti trước Lý gia). Gọi Điền Trọng Thanh (田仲青) này là "đại nhân".
+- Điền Vinh (田荣, xem [[8.95]]): bị đày cùng đám người tới Đông Sơn Việt, bám riết Sa Ma Lý ăn chơi; Điền Trọng Thanh (田仲青) phải nhẫn nhịn vì Điền Vinh là con trai độc nhất của Điền Hữu Đạo - ân nhân và trụ cột Điền thị.
+
+### 8.104 Lưu Trường Điệt gặp lại Lý Uyên Giao ngoài đời; nhà họ Uất sau cái chết Uất Tiêu Âu (ch.257)
+
+- **Lưu Trường Điệt (xem [[8.22]]) và Lý Uyên Giao chính thức gặp mặt lần đầu** (trước đó Trường Điệt chỉ biết Uyên Giao qua ký ức "kiếp trước", xem [[8.24]]). Trường Điệt nằng nặc xin xưng hô ngang vai "huynh - đệ" với Uyên Giao dù đúng vai vế tông môn thì Uyên Giao là vãn bối (con trai trưởng huynh Lý Huyền Tuyên) - Lý Huyền Phong (xem [[8.17]]) thấy kỳ lạ nhưng không ngăn, ngầm dặn Uyên Giao cứ chiều theo vì Trường Điệt "tính khí có phần quái dị". Từ đây hai người xưng hô ngang vai riêng tư, KHÔNG áp dụng khi có mặt người ngoài.
+- Xác nhận [[8.100]], [[8.101]]: **Uất Tiêu Âu (萧瓯长老) đã chính thức bị xử lý xong hậu sự** - Uất Mộ Cao lấy cớ "thông địch" tước đoạt sản nghiệp phe cánh liên quan, nhân đó thanh trừng luôn đám thúc bá huynh đệ trong tộc, nắm trọn quyền lực nhà họ Uất về một mối. Uất Ngọc Phong (lão tổ, xem [[8.91]]) coi như đã mất tích/khó sống sót, Uất Tiêu Quý (phụ thân Mộ Cao) đang bế quan - Uất Mộ Cao tạm thời là người thực quyền cao nhất nhà họ Uất.
+- Uất Mộ Tiên (xem [[8.91]]): xác nhận vẫn đang ở Nguyên Ô phong (Thanh Trì Tông).
+
+### 8.105 Lưu Trường Điệt thành khách khanh Lý gia; đồng thuật «Linh Mục Thanh Đồng» (ch.258)
+
+- **Lưu Trường Điệt (xem [[8.22]], [[8.104]]) chính thức trở thành khách khanh của Lý gia**, đổi lấy việc dạy Lý Huyền Phong (thay mặt Lý gia) một môn đồng thuật gia truyền tên «Linh Mục Thanh Đồng» (灵目清瞳) - vốn trước đó Lý gia chưa từng truyền cho người ngoài tộc.
+- Lý Huyền Phong tự xưng "ta" gọi Lý Uyên Giao là "tòng điệt" khi nói với người ngoài (Lưu Trường Điệt); xưng hô riêng giữa hai chú cháu vẫn theo mục 8.93 (Uyên Giao gọi ông là "thúc công"? - **CẦN SOÁT LẠI**: mục 8.93 dòng 746 ghi Lý Uyên Giao gọi Lý Thông Nhai là "thúc công", KHÔNG phải Lý Huyền Phong - quan hệ xưng hô cụ thể giữa Lý Huyền Phong và Lý Uyên Giao chưa được xác nhận rõ trong các chương trước, cần tra khi gặp lại.
+
+### 8.106 Xưng hô Lý Huyền Tuyên/Lý Huyền Phong tự xưng với Lý Thông Nhai; tình hình Đường Kim Môn (ch.259)
+
+- **Xác nhận tự xưng "tiểu điệt"**: cả Lý Huyền Tuyên (con Lý Trường Hồ, gọi Thông Nhai là "trọng phụ"/nhị thúc ruột) và Lý Huyền Phong (con Lý Hạng Bình, gọi Thông Nhai là "Nhị bá"/nhị bá ruột - ch.259 dùng "二伯" thay vì "仲父", bản gốc dùng lỏng theo mục 3) đều tự xưng "tiểu điệt" khi nói CHUYỆN TRỰC TIẾP với Lý Thông Nhai (không dùng "con" - "con" chỉ giữ nguyên ở chiều Thông Nhai gọi họ, xem mục 6). Áp dụng nhất quán cho cả hai khi xưng hô với Thông Nhai ở các chương sau.
+- **Đường Kim Môn (xem [[8.]] mục 1, established: 唐元乌 Đường Nguyên Ô cùng tông)**: lão tổ Tử Phủ đã kiệt sức nương nhờ Thanh Trì Tông hơn mười năm trước, nay vị tu sĩ Tử Phủ cuối cùng mất tin tức, tông môn suy yếu, có tin đồn ma tu xuất hiện. Đường Kim Môn nằm ở nước Từ (徐国/大徐), nghi bị vạ lây từ tranh đấu giữa các đại năng Thích giáo ở đó. Thanh Trì Tông chưa phái ai điều tra.
+- Vạn Thiên Cừu (万天仇, xem [[8.]] nhà họ Vạn/Hoa Thiên sơn): cô nhi cuối cùng nhà họ Vạn, xác nhận đã chết ở quận Lê Hạ.
+
+### 8.107 Hôn sự Lý Uyên Giao - Tiêu Quy Loan; nhà họ Tiêu; Liễu Nhu Huyến hấp hối (ch.260-261)
+
+- Xác nhận lại **Lý Huyền Tuyên, Lý Huyền Phong, Lý Huyền Lĩnh vẫn dùng "hắn"** (KHÔNG "ông") xuyên suốt ch.260-261, kể cả trong vai trò trưởng huynh/phụ thân lo việc gia tộc - củng cố cảnh báo mục 7 (lỗi ch.166-179 lặp lại là bẫy thường gặp, luôn kiểm tra kỹ khi văn phong trang trọng).
+- **Tiêu Quy Loan (xem [[8.90]])**: nữ nhi thứ xuất đích mạch Tiêu gia, hứa gả Lý Uyên Giao, tu vi Thai Tức tầng năm (Ngọc Kinh luân - cùng tên cảnh giới với An Chá Vũ ở [[8.97]], xác nhận đây là tên cảnh giới chung chứ không riêng một dòng công pháp). Đại từ ngôi ba: chưa rõ ("nữ tử áo xanh"/"nàng" tạm dùng); gọi cha ruột là "phụ thân" nhưng trong lòng bất mãn vì ông không chịu góp của hồi môn. Quan hệ với nữ tỳ hầu cận: gọi "ngươi", tự xưng "ta".
+- Tiêu Cửu Khánh (xem [[8.96]]) thuộc chi mạch Dư Sơn (余山支脉) nhà họ Tiêu, chủ động tặng quà mừng cưới cho Tiêu Quy Loan để lấy lòng Lý gia/Lý Uyên Giao - không phải quan hệ thân thiết có sẵn.
+- Núi Hàm Ưu (衔忧山, đặt theo tên Tiêu Hàm Ưu - xem [[8.96]]): nơi ở nhà họ Tiêu, đỉnh chính (Hàm Ưu phong) dành riêng cho Tiêu Sơ Đình từ khi ông đột phá Tử Phủ.
+- Lý Thông Nhai mang lục **"Trọng Hải Trường Kình"** (trọng hải trường kình lục), khiến cách vận khí như cá kình, việc nuôi dưỡng tu vi khó hơn tu sĩ Trúc Cơ thường.
+- **Liễu Nhu Huyến (xem mục 3, đổi "ông"... à "bà" từ ch.228) nay hấp hối**: nhiều lần đột phá thất bại, thọ nguyên cạn, ngủ nhiều hơn thức; Lý Thông Nhai tạm ngưng bế quan để ở bên bà những ngày cuối.
+- Lý Tạ Văn (xem [[8.2]]) nay làm việc vặt/đưa tin cho Lý Huyền Tuyên và Lý Thông Nhai, gọi Lý Thông Nhai là "lão tổ" (không phải "trọng phụ" như vai vế ngang Huyền Tuyên có thể gợi ý - xưng hô theo vị trí công việc/chi hệ thực tế, không suy diễn từ vai vế chung chung).
+- «Kim Thu Luyện Phù Tiểu Ký» («今秋炼符小记»): bộ phù pháp thứ hai Lý gia có được (cùng với «Linh Trung Phù Pháp»), độ khó cao hơn, Lý Huyền Tuyên chưa vẽ thành đạo nào.
+- Biên Yến sơn (边燕山, nước Từ): nơi một lang yêu vừa đột phá Trúc Cơ chiếm núi xưng vương, tự xưng "Biên Yến yêu tướng" - mục tiêu Lý gia đang dò xét để bắt làm nguồn phù chủng/lục khí.
