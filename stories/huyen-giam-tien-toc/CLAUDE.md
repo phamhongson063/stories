@@ -329,9 +329,10 @@ Mục này CHỈ ghi gia phả/quan hệ/xưng hô để tra khi dịch, KHÔNG 
 - **Lý Huyền Lĩnh** (con ruột Thông Nhai - Liễu Nhu Huyến, mất - bị Ma Ha giết): dùng "phụ thân"/"con" với Thông Nhai (KHÁC hai người trên vì là con ruột, không phải cháu). Vợ **Lư Uyển Dung** (mất ch.397). Con: **Lý Thanh Hồng** (gái) và **Lý Uyên Vân** (trai).
 - **Lý Huyền Phong** (con Hạng Bình, song sinh với Cảnh Điềm, đại từ "hắn"): vợ đầu Giang Ngư Nữ (mất, con Lý Uyên Ngư/"Giang Nhạn" - bị bắt cóc đổi tên); vợ sau **Ninh Hòa Miên**. Gọi Lý Thông Nhai = "trọng phụ".
 - **Lý Cảnh Điềm** (con Hạng Bình, đại từ "bà", mất ch.400): chồng **Trần Đông Hà** (đại từ "ông" từ ch.368). Con gái **Lý Thanh Hiểu** (đại từ "nàng", chồng Tiêu Hiến đã mất).
-- Thế hệ "Uyên/Thanh" (gọi Lý Thông Nhai = "thúc công", tự xưng "tiểu điệt"): **Lý Uyên Bình** (gia chủ hiện tại, con Đậu thị, thứ 7 trong hàng "Uyên" nên tự xưng "thất thúc" với hàng cháu, đại từ "cậu"); **Lý Uyên Giao** (con Mộc Nha Lộc, đã quá kế sang nhánh Quý/Lý Xích Kính, đại từ "hắn", vợ **Tiêu Quy Loan** đại từ "nàng", con: **Lý Hi Trị** và **Lý Nguyệt Tương**); **Lý Thanh Hồng** (cô, đại từ "cô", chưa chồng, tu «Tử Lôi Bí Nguyên Công»); **Lý Uyên Vân** (con Huyền Lĩnh - Lư Uyển Dung; ch.397 có chi tiết mâu thuẫn nói đã mất - xem ghi chú mục 9). Ba anh em Uyên Giao/Uyên Bình/Thanh Hồng xưng hô nhau "ca/tỷ/đệ/muội".
+- Thế hệ "Uyên/Thanh" (gọi Lý Thông Nhai = "thúc công", tự xưng "tiểu điệt"): **Lý Uyên Bình** (gia chủ hiện tại, con Đậu thị, thứ 7 trong hàng "Uyên" nên tự xưng "thất thúc" với hàng cháu, đại từ "cậu"); **Lý Uyên Giao** (con Mộc Nha Lộc, đã quá kế sang nhánh Quý/Lý Xích Kính, đại từ "hắn", vợ **Tiêu Quy Loan** đại từ "nàng", con: **Lý Hi Trị** và **Lý Nguyệt Tương**); **Lý Thanh Hồng** (cô, đại từ "cô", chưa chồng, tu «Tử Lôi Bí Nguyên Công»); **Lý Uyên Vân** (con Huyền Lĩnh - Lư Uyển Dung, mất - bị Cừu Tịch giết trong đợt ma tai năm xưa tại phường thị, xác nhận ch.405, khớp với ch.397). Ba anh em Uyên Giao/Uyên Bình/Thanh Hồng xưng hô nhau "ca/tỷ/đệ/muội".
 - Thế hệ "Hi/Nguyệt" (con thế hệ Uyên/Thanh): **Lý Hi Nga** (con trưởng Lý Uyên Vân, đích trưởng nhánh Trọng); **Lý Hi Tuấn** (con út Lý Uyên Vân, thứ 8 hàng "Hi" nên được gọi "Bát thúc", tu «Minh Sương Tùng Lĩnh»/«Thanh Mục Linh Đồng»); **Lý Hi Trị** (con Uyên Giao - Tiêu Quy Loan, quá kế nhánh Quý, tu tại Thanh Trì Tông, vợ **Dương Tiêu Nhi** con gái Dương Thiên Nha); **Lý Hi Minh** (con Uyên Bình, mẹ họ Nhậm, đích trưởng nhánh Bá); **Lý Nguyệt Tương** (con gái út Uyên Giao - Tiêu Quy Loan).
 - 4 nhánh đặt tên theo bộ chữ Hán từ thế hệ "Hi": Bá (Trường Hồ) bộ miên/nhật; Trọng (Thông Nhai) bộ sơn/sước; Thúc (Hạng Bình) bộ công/kim; Quý (Xích Kính) bộ thủy/hòa.
+- Thế hệ "Thừa/Minh" (con thế hệ Hi/Nguyệt, xuất hiện ch.403): **Lý Thừa Liêu** (con trưởng Lý Hi Nga, đích trưởng nhánh Trọng, tuổi lớn nhất đám); **Lý Minh Cung** (chị cả nhánh Bá, con nhánh Uyên Hoàn); **Lý Thừa** (con út nhánh Trọng, con nhánh Uyên Vân).
 - Bài thơ vai vế (mỗi đời 2 chữ lót nam/nữ): Huyền/Cảnh - Uyên/Thanh - Hi/Nguyệt - Thừa/Minh - Chu/Hành - Giáng/Khuyết - Toại/Ngữ...
 
 ### 8.2 Nhánh họ Lý khác & tá điền lâu năm
@@ -361,6 +362,8 @@ Mục này CHỈ ghi gia phả/quan hệ/xưng hô để tra khi dịch, KHÔNG 
 - **Sa Ma Lý** (Đông Sơn Việt, con Mộc Tiêu Man) - thông gia với Lý Uyên Tu, gọi Lý Uyên Giao "Giao đệ"/"biểu huynh" qua Mộc Nha Lộc.
 - **Nhà họ Mộc** (Sơn Việt): Mộc Nha Lộc (xem 8.1) - anh ruột Mộc Tiêu Man (mất).
 - **Nhà họ Đậu**: Đậu thị (chính thê Lý Huyền Tuyên) → cháu Đậu Ấp (theo hầu Lý Uyên Bình).
+- **Nhà họ Hàn đảo Đông Lưu** (Đông Hải, từ ch.404): **Hàn Thích Trinh** (thiếu gia chủ, tự xưng "tại hạ", gọi Lý Uyên Giao "đạo hữu") - đối tác buôn «Uyển Lăng hoa» ăn chia với nhà họ Lý (6-4).
+- **Trương Hoài Đức** (ma tu, pháp khí gương báu sắc máu) và **Cừu Tịch** (ma tu, đã giết Lý Uyên Vân, làm trọng thương Lý Huyền Tuyên trong đợt ma tai năm xưa - kẻ thù không đội trời chung của Lý Thanh Hồng): xuất hiện lại ch.405, Trương Hoài Đức trấn giữ núi hoang bắc bờ sông lớn.
 
 ### 8.5 Nhân vật ngoài tộc quan trọng, lặp lại nhiều lần
 
@@ -370,3 +373,4 @@ Mục này CHỈ ghi gia phả/quan hệ/xưng hô để tra khi dịch, KHÔNG 
 - **Lý Ô Sao** (câu xà Đông Hải quy phục Lý Uyên Giao): tự xưng "thuộc hạ", gọi "chủ nhân".
 - **Mạnh Thái Chí** (mất ch.401, chết khi đột phá Trúc Cơ) - con gái **Mạnh Chước Vân** (người yêu Lý Hi Minh): phụ tử tản tu Đông Hải nương nhờ nhà họ Lý.
 - **Lý Ân Thành** (hiệu «Bích Thủy Đan», phong chủ phong Phủ Thần Thanh Trì Tông).
+- **Lộ Khẩn** (lộc yêu, Trúc Cơ trung kỳ, thủ hạ/bạn tri kỷ của Bạch Dung Hồ từ ch.402): trấn giữ bắc lộc núi Đại Lê, tự xưng "tại hạ"/"ta", gọi Lý Uyên Giao "đạo hữu".
